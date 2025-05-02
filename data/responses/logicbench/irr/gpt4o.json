@@ -1,0 +1,152 @@
+[
+  {
+    "context": "dogs and cats are animals. animals typically live in homes. dogs are not living in homes. dogs are loyal companions.",
+    "qa_pairs": [
+      {
+        "question": "does this imply that cats are living in homes?",
+        "answer": "yes",
+        "reason": "Animals typically live in homes, and cats are animals. Only dogs are explicitly excluded."
+      },
+      {
+        "question": "does this mean that cats aren't living in homes?",
+        "answer": "no",
+        "reason": "Cats are not mentioned as an exception, so they likely follow the general rule that animals live in homes."
+      }
+    ]
+  },
+  {
+    "context": "cats and dogs are animals. animals are often kept as pets. cats are not kept as pets. cats have whiskers.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that dogs are kept as pets?",
+        "answer": "yes",
+        "reason": "Animals are often pets, and cats are explicitly excluded. By contrast, dogs are not, so the implication is that they are kept as pets."
+      },
+      {
+        "question": "does this entail that dogs aren't kept as pets?",
+        "answer": "no",
+        "reason": "Only cats are excluded from being pets, not dogs."
+      }
+    ]
+  },
+  {
+    "context": "cats and dogs are mammals. mammals usually have fur. cats don't have fur. cats are carnivores.",
+    "qa_pairs": [
+      {
+        "question": "does this imply that dogs have fur?",
+        "answer": "yes",
+        "reason": "Mammals usually have fur. Cats are a stated exception. Dogs, not being an exception, likely have fur."
+      },
+      {
+        "question": "does this mean that dogs don't have fur?",
+        "answer": "no",
+        "reason": "The text doesn't say dogs lack fur—only cats are stated to lack it."
+      }
+    ]
+  },
+  {
+    "context": "cats and dogs are animals. normally, animals are kept as pets. cats are not kept as pets. cats like to climb trees.",
+    "qa_pairs": [
+      {
+        "question": "does this imply that dogs are kept as pets?",
+        "answer": "yes",
+        "reason": "Animals are normally pets. Cats are the exception. Therefore, dogs likely follow the norm."
+      },
+      {
+        "question": "does this entail that dogs aren't kept as pets?",
+        "answer": "no",
+        "reason": "There's no mention of dogs being excluded from the pet-keeping norm."
+      }
+    ]
+  },
+  {
+    "context": "cars and buses are large. large vehicles require a lot of space to move around. cars do not need a lot of space. cars come in various colors.",
+    "qa_pairs": [
+      {
+        "question": "does this imply that buses require a lot of space?",
+        "answer": "yes",
+        "reason": "Large vehicles usually need space. Cars are the exception. Buses are not, so the rule likely applies to them."
+      },
+      {
+        "question": "does this imply that buses don't require a lot of space?",
+        "answer": "no",
+        "reason": "Only cars are stated to not need space. Buses, being large and not mentioned as an exception, likely do."
+      }
+    ]
+  },
+  {
+    "context": "cats and dogs are mammals. mammals are usually kept as pets. cats are not kept as pets. dogs have four legs.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that dogs are kept as pets?",
+        "answer": "yes",
+        "reason": "Cats are an exception to mammals being pets. Dogs are not, so they likely follow the rule."
+      },
+      {
+        "question": "does this entail that dogs aren't kept as pets?",
+        "answer": "no",
+        "reason": "There's no statement indicating that dogs are not pets—only cats are excluded."
+      }
+    ]
+  },
+  {
+    "context": "cats and dogs are mammals. mammals generally have fur. cats have fur but dogs do not. cats have whiskers.",
+    "qa_pairs": [
+      {
+        "question": "does this imply that dogs have skin and fur?",
+        "answer": "no",
+        "reason": "The context states dogs do not have fur, contradicting the idea that they have both skin and fur."
+      },
+      {
+        "question": "does this imply that dogs don't have skin and fur?",
+        "answer": "yes",
+        "reason": "The text explicitly says dogs do not have fur, so they don’t have both skin and fur."
+      }
+    ]
+  },
+  {
+    "context": "pineapples and grapes are sweet. sweet fruits are usually eaten as snacks. pineapples are not eaten as snacks. pineapples are spiky.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that grapes are eaten as snacks?",
+        "answer": "yes",
+        "reason": "Sweet fruits are usually snacks. Pineapples are an exception. Grapes, not being excluded, are likely eaten as snacks."
+      },
+      {
+        "question": "does this entail that grapes aren't eaten as snacks?",
+        "answer": "no",
+        "reason": "There’s no indication that grapes are an exception to the sweet-fruits-as-snacks rule."
+      }
+    ]
+  },
+  {
+    "context": "cars and bicycles have wheels. wheels are typically round in shape. cars have four wheels, but bicycles have two. cars are powered by gasoline.",
+    "qa_pairs": [
+      {
+        "question": "does this imply that bicycles have round wheels?",
+        "answer": "yes",
+        "reason": "Wheels are typically round, and bicycles have wheels. No exception is mentioned, so roundness is implied."
+      },
+      {
+        "question": "does this imply that bicycles don't have round wheels?",
+        "answer": "no",
+        "reason": "Nothing in the context contradicts the idea that bicycle wheels are round."
+      }
+    ]
+  },
+  {
+    "context": "snow and ice are cold. cold weather conditions are usually accompanied by snowfall. ice does not always lead to snowfall. snowflakes are unique in shape.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that snow is always accompanied by cold weather conditions?",
+        "answer": "yes",
+        "reason": "Snow is associated with cold, and the context states cold weather is usually accompanied by snowfall, implying the reverse holds as well."
+      },
+      {
+        "question": "does this entail that snow isn't always accompanied by cold weather conditions?",
+        "answer": "no",
+        "reason": "There is no suggestion in the context that snow occurs in non-cold conditions."
+      }
+    ]
+  }
+]

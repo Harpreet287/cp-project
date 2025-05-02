@@ -1,0 +1,152 @@
+[
+  {
+      "context": "dogs and cats are animals. animals typically live in homes. dogs are not living in homes. dogs are loyal companions.",
+      "qa_pairs": [
+          {
+              "question": "does this imply that cats are living in homes?",
+              "answer": "no",
+              "reason": "The context does not provide enough information to conclude that cats are living in homes."
+          },
+          {
+              "question": "does this mean that cats aren't living in homes?",
+              "answer": "no",
+              "reason": "The context does not provide enough information to conclude that cats are not living in homes."
+          }
+      ]
+  },
+  {
+      "context": "cats and dogs are animals. animals are often kept as pets. cats are not kept as pets. cats have whiskers.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that dogs are kept as pets?",
+              "answer": "yes",
+              "reason": "Since animals are often kept as pets and cats are not kept as pets, it implies that dogs are kept as pets."
+          },
+          {
+              "question": "does this entail that dogs aren't kept as pets?",
+              "answer": "no",
+              "reason": "The statement that animals are often kept as pets and cats are not kept as pets implies that dogs are kept as pets."
+          }
+      ]
+  },
+  {
+      "context": "cats and dogs are mammals. mammals usually have fur. cats don't have fur. cats are carnivores.",
+      "qa_pairs": [
+          {
+              "question": "does this imply that dogs have fur?",
+              "answer": "no",
+              "reason": "The context does not provide enough information to conclude that dogs have fur."
+          },
+          {
+              "question": "does this mean that dogs don't have fur?",
+              "answer": "no",
+              "reason": "The context does not provide enough information to conclude that dogs don't have fur."
+          }
+      ]
+  },
+  {
+      "context": "cats and dogs are animals. normally, animals are kept as pets. cats are not kept as pets. cats like to climb trees.",
+      "qa_pairs": [
+          {
+              "question": "does this imply that dogs are kept as pets?",
+              "answer": "yes",
+              "reason": "Since animals are normally kept as pets and cats are not kept as pets, it implies that dogs are kept as pets."
+          },
+          {
+              "question": "does this entail that dogs aren't kept as pets?",
+              "answer": "no",
+              "reason": "The statement that animals are normally kept as pets and cats are not kept as pets implies that dogs are kept as pets."
+          }
+      ]
+  },
+  {
+      "context": "cars and buses are large. large vehicles require a lot of space to move around. cars do not need a lot of space. cars come in various colors.",
+      "qa_pairs": [
+          {
+              "question": "does this imply that buses require a lot of space?",
+              "answer": "yes",
+              "reason": "Since large vehicles require a lot of space and cars do not need a lot of space, it implies that buses require a lot of space."
+          },
+          {
+              "question": "does this imply that buses don't require a lot of space?",
+              "answer": "no",
+              "reason": "The statement that large vehicles require a lot of space and cars do not need a lot of space implies that buses require a lot of space."
+          }
+      ]
+  },
+  {
+      "context": "cats and dogs are mammals. mammals are usually kept as pets. cats are not kept as pets. dogs have four legs.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that dogs are kept as pets?",
+              "answer": "yes",
+              "reason": "Since mammals are usually kept as pets and cats are not kept as pets, it implies that dogs are kept as pets."
+          },
+          {
+              "question": "does this entail that dogs aren't kept as pets?",
+              "answer": "no",
+              "reason": "The statement that mammals are usually kept as pets and cats are not kept as pets implies that dogs are kept as pets."
+          }
+      ]
+  },
+  {
+      "context": "cats and dogs are mammals. mammals generally have fur. cats have fur but dogs do not. cats have whiskers.",
+      "qa_pairs": [
+          {
+              "question": "does this imply that dogs have skin and fur?",
+              "answer": "no",
+              "reason": "The context explicitly states that dogs do not have fur."
+          },
+          {
+              "question": "does this imply that dogs don't have skin and fur?",
+              "answer": "yes",
+              "reason": "The context explicitly states that dogs do not have fur."
+          }
+      ]
+  },
+  {
+      "context": "pineapples and grapes are sweet. sweet fruits are usually eaten as snacks. pineapples are not eaten as snacks. pineapples are spiky.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that grapes are eaten as snacks?",
+              "answer": "yes",
+              "reason": "Since sweet fruits are usually eaten as snacks and pineapples are not eaten as snacks, it implies that grapes are eaten as snacks."
+          },
+          {
+              "question": "does this entail that grapes aren't eaten as snacks?",
+              "answer": "no",
+              "reason": "The statement that sweet fruits are usually eaten as snacks and pineapples are not eaten as snacks implies that grapes are eaten as snacks."
+          }
+      ]
+  },
+  {
+      "context": "cars and bicycles have wheels. wheels are typically round in shape. cars have four wheels, but bicycles have two. cars are powered by gasoline.",
+      "qa_pairs": [
+          {
+              "question": "does this imply that bicycles have round wheels?",
+              "answer": "yes",
+              "reason": "Since wheels are typically round in shape, it implies that bicycles have round wheels."
+          },
+          {
+              "question": "does this imply that bicycles don't have round wheels?",
+              "answer": "no",
+              "reason": "The statement that wheels are typically round in shape implies that bicycles have round wheels."
+          }
+      ]
+  },
+  {
+      "context": "snow and ice are cold. cold weather conditions are usually accompanied by snowfall. ice does not always lead to snowfall. snowflakes are unique in shape.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that snow is always accompanied by cold weather conditions?",
+              "answer": "no",
+              "reason": "The context does not provide enough information to conclude that snow is always accompanied by cold weather conditions."
+          },
+          {
+              "question": "does this entail that snow isn't always accompanied by cold weather conditions?",
+              "answer": "no",
+              "reason": "The context does not provide enough information to conclude that snow isn't always accompanied by cold weather conditions."
+          }
+      ]
+  }
+]

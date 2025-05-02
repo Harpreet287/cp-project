@@ -1,0 +1,152 @@
+[
+  {
+    "context": "cats are carnivores. carnivores normally eat meat. at least one carnivore does not eat meat.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that cats usually eat meat?",
+        "answer": "yes",
+        "reason": "Cats are carnivores and carnivores usually eat meat, so it's reasonable to infer cats usually eat meat."
+      },
+      {
+        "question": "does this entail that cats usually don't eat meat?",
+        "answer": "no",
+        "reason": "The statement supports that carnivores usually eat meat, and cats are carnivores, so the opposite is not entailed."
+      }
+    ]
+  },
+  {
+    "context": "cars usually have four wheels. wheels are round in shape. at least one car does not have four wheels.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that most cars have round wheels?",
+        "answer": "yes",
+        "reason": "Most cars have four wheels, and wheels are round in shape, so it's likely most cars have round wheels."
+      },
+      {
+        "question": "does this entail that most cars don't have round wheels?",
+        "answer": "no",
+        "reason": "There’s no evidence suggesting most cars lack round wheels; the information supports the opposite."
+      }
+    ]
+  },
+  {
+    "context": "apples are red. red fruits are usually sweet. at least one red fruit is not sweet.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that apples are sweet?",
+        "answer": "no",
+        "reason": "Apples being red and red fruits usually being sweet does not guarantee apples are sweet—only makes it probable."
+      },
+      {
+        "question": "does this mean that apples aren't sweet?",
+        "answer": "no",
+        "reason": "Nothing in the context supports that apples are not sweet; the data just doesn't entail sweetness either way."
+      }
+    ]
+  },
+  {
+    "context": "dolphins are mammals. mammals normally live on land. at least one mammal lives in the water.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that dolphins live in the water?",
+        "answer": "yes",
+        "reason": "We know dolphins are aquatic mammals, and the mention of at least one mammal in water suggests dolphins are the exception."
+      },
+      {
+        "question": "does this entail that dolphins don't live in the water?",
+        "answer": "no",
+        "reason": "It would be incorrect, since dolphins are known to live in water and the context doesn’t contradict that."
+      }
+    ]
+  },
+  {
+    "context": "cows are black and white. black and white animals usually live on farms. at least one black and white animal does not live on a farm.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that cows live on farms?",
+        "answer": "no",
+        "reason": "It is likely but not logically entailed that cows live on farms just from their color and general animal behavior."
+      },
+      {
+        "question": "does this entail that cows don't live on farms?",
+        "answer": "no",
+        "reason": "There's no statement contradicting the idea that cows live on farms; the exception doesn't apply to all."
+      }
+    ]
+  },
+  {
+    "context": "dolphins are mammals. mammals normally breathe air. at least one mammal breathes water instead of air.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that dolphins breathe air?",
+        "answer": "yes",
+        "reason": "Dolphins are mammals and mammals normally breathe air, and the exception doesn’t imply dolphins are it."
+      },
+      {
+        "question": "does this entail that dolphins don't breathe air?",
+        "answer": "no",
+        "reason": "The exception of one mammal doesn’t apply to dolphins unless explicitly stated, so this isn't entailed."
+      }
+    ]
+  },
+  {
+    "context": "cows are herbivores. herbivores normally eat plants. at least one herbivore eats something other than plants.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that cows eat plants?",
+        "answer": "yes",
+        "reason": "Cows are herbivores, and herbivores normally eat plants, so it's entailed that cows eat plants."
+      },
+      {
+        "question": "does this imply that cows don't eat plants?",
+        "answer": "no",
+        "reason": "The existence of one exception doesn’t apply to cows specifically; cows being herbivores supports plant-eating."
+      }
+    ]
+  },
+  {
+    "context": "pineapples are sweet. sweet fruits are usually eaten as desserts. at least one sweet fruit is not eaten as a dessert.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that pineapples are eaten as a dessert?",
+        "answer": "yes",
+        "reason": "Since pineapples are sweet and sweet fruits are usually desserts, it's likely pineapples are eaten as desserts."
+      },
+      {
+        "question": "does this mean that pineapples aren't eaten as a dessert?",
+        "answer": "no",
+        "reason": "There's no indication pineapples are the exception to the usual pattern of sweet fruits being desserts."
+      }
+    ]
+  },
+  {
+    "context": "cars have four wheels. wheels normally have rubber tires. at least one wheel does not have a rubber tire.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that cars have rubber tires on their wheels?",
+        "answer": "yes",
+        "reason": "Since wheels normally have rubber tires and cars have wheels, it's reasonable to assume cars have rubber tires."
+      },
+      {
+        "question": "does this mean that cars don't have rubber tires on their wheels?",
+        "answer": "no",
+        "reason": "Only one exception is mentioned, not a pattern indicating most cars lack rubber tires."
+      }
+    ]
+  },
+  {
+    "context": "cats are furry animals. furry animals normally have thick fur. at least one furry animal does not have thick fur.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that cats have thick fur?",
+        "answer": "no",
+        "reason": "It’s probable but not guaranteed; the generalization doesn’t entail the property for every individual case."
+      },
+      {
+        "question": "does this mean that cats don't have thick fur?",
+        "answer": "no",
+        "reason": "There’s no evidence that cats are the exception to the general rule of furry animals having thick fur."
+      }
+    ]
+  }
+]

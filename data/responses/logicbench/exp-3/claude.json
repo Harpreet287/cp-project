@@ -1,0 +1,152 @@
+[
+  {
+    "context": "cats are carnivores. carnivores normally eat meat. at least one carnivore does not eat meat.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that cats usually eat meat?",
+        "answer": "yes",
+        "reason": "The context states that cats are carnivores and carnivores normally eat meat. While there is an exception mentioned (at least one carnivore doesn't eat meat), this doesn't change the general rule that carnivores normally eat meat. Since cats are carnivores, they would normally eat meat."
+      },
+      {
+        "question": "does this entail that cats usually don't eat meat?",
+        "answer": "no",
+        "reason": "The context states carnivores normally eat meat, and cats are carnivores. While there is at least one carnivore that doesn't eat meat, this exception doesn't negate the general rule that carnivores (including cats) normally eat meat."
+      }
+    ]
+  },
+  {
+    "context": "cars usually have four wheels. wheels are round in shape. at least one car does not have four wheels.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that most cars have round wheels?",
+        "answer": "yes",
+        "reason": "The context states that cars usually have four wheels and wheels are round in shape. The exception (at least one car does not have four wheels) doesn't change the fact that wheels are round. Since most cars have wheels, and wheels are round, most cars have round wheels."
+      },
+      {
+        "question": "does this entail that most cars don't have round wheels?",
+        "answer": "no",
+        "reason": "The context states that cars usually have four wheels and wheels are round in shape. The exception mentioned only states that at least one car doesn't have four wheels, not that wheels aren't round. The general rule that wheels are round remains, so most cars would have round wheels."
+      }
+    ]
+  },
+  {
+    "context": "apples are red. red fruits are usually sweet. at least one red fruit is not sweet.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that apples are sweet?",
+        "answer": "no",
+        "reason": "While the context states that apples are red and red fruits are usually sweet, we also know that at least one red fruit is not sweet. This exception could be apples. Therefore, we cannot logically entail that apples must be sweet."
+      },
+      {
+        "question": "does this mean that apples aren't sweet?",
+        "answer": "no",
+        "reason": "The context says red fruits are usually sweet and apples are red, suggesting apples are likely sweet. However, we also know at least one red fruit is not sweet. This exception could be apples, but it could also be another red fruit. We cannot definitively conclude that apples aren't sweet."
+      }
+    ]
+  },
+  {
+    "context": "dolphins are mammals. mammals normally live on land. at least one mammal lives in the water.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that dolphins live in the water?",
+        "answer": "no",
+        "reason": "The context states that dolphins are mammals and mammals normally live on land. It also mentions that at least one mammal lives in the water, but it doesn't specify that this mammal is a dolphin. Without additional information, we cannot conclude that dolphins live in water."
+      },
+      {
+        "question": "does this entail that dolphins don't live in the water?",
+        "answer": "no",
+        "reason": "The context states that mammals normally live on land, and dolphins are mammals. However, it also mentions that at least one mammal lives in the water, which could be dolphins. Since we don't know which mammal is the exception, we cannot conclude that dolphins don't live in water."
+      }
+    ]
+  },
+  {
+    "context": "cows are black and white. black and white animals usually live on farms. at least one black and white animal does not live on a farm.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that cows live on farms?",
+        "answer": "no",
+        "reason": "The context states that black and white animals usually live on farms, and cows are black and white. However, we also know that at least one black and white animal does not live on a farm. This exception could be cows. Therefore, we cannot logically entail that cows must live on farms."
+      },
+      {
+        "question": "does this entail that cows don't live on farms?",
+        "answer": "no",
+        "reason": "The context says black and white animals usually live on farms, and cows are black and white. We know at least one black and white animal doesn't live on a farm, but this could be an animal other than cows. We cannot logically entail that cows don't live on farms."
+      }
+    ]
+  },
+  {
+    "context": "dolphins are mammals. mammals normally breathe air. at least one mammal breathes water instead of air.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that dolphins breathe air?",
+        "answer": "no",
+        "reason": "The context states that mammals normally breathe air, and dolphins are mammals. However, it also mentions that at least one mammal breathes water instead of air. This exception could be dolphins. Therefore, we cannot logically entail that dolphins must breathe air."
+      },
+      {
+        "question": "does this entail that dolphins don't breathe air?",
+        "answer": "no",
+        "reason": "While the context states that at least one mammal breathes water instead of air, and dolphins are mammals, we don't know if dolphins are that exception. The general rule is that mammals normally breathe air. We cannot logically conclude that dolphins don't breathe air."
+      }
+    ]
+  },
+  {
+    "context": "cows are herbivores. herbivores normally eat plants. at least one herbivore eats something other than plants.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that cows eat plants?",
+        "answer": "no",
+        "reason": "The context states that herbivores normally eat plants, and cows are herbivores. However, it also mentions that at least one herbivore eats something other than plants. This exception could be cows. Therefore, we cannot logically entail that cows must eat plants."
+      },
+      {
+        "question": "does this imply that cows don't eat plants?",
+        "answer": "no",
+        "reason": "The context says herbivores normally eat plants, and cows are herbivores. We know at least one herbivore eats something other than plants, but this could be a herbivore other than cows. We cannot logically conclude that cows don't eat plants."
+      }
+    ]
+  },
+  {
+    "context": "pineapples are sweet. sweet fruits are usually eaten as desserts. at least one sweet fruit is not eaten as a dessert.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that pineapples are eaten as a dessert?",
+        "answer": "no",
+        "reason": "The context states that sweet fruits are usually eaten as desserts, and pineapples are sweet. However, it also mentions that at least one sweet fruit is not eaten as a dessert. This exception could be pineapples. Therefore, we cannot logically conclude that pineapples are eaten as a dessert."
+      },
+      {
+        "question": "does this mean that pineapples aren't eaten as a dessert?",
+        "answer": "no",
+        "reason": "The context says sweet fruits are usually eaten as desserts, and pineapples are sweet. We know at least one sweet fruit is not eaten as a dessert, but this could be a fruit other than pineapples. We cannot logically conclude that pineapples aren't eaten as a dessert."
+      }
+    ]
+  },
+  {
+    "context": "cars have four wheels. wheels normally have rubber tires. at least one wheel does not have a rubber tire.",
+    "qa_pairs": [
+      {
+        "question": "does this mean that cars have rubber tires on their wheels?",
+        "answer": "no",
+        "reason": "The context states that wheels normally have rubber tires, and cars have four wheels. However, it also mentions that at least one wheel does not have a rubber tire. These exceptions could be the wheels on cars. Therefore, we cannot logically conclude that cars have rubber tires on their wheels."
+      },
+      {
+        "question": "does this mean that cars don't have rubber tires on their wheels?",
+        "answer": "no",
+        "reason": "The context says wheels normally have rubber tires, and cars have four wheels. We know at least one wheel doesn't have a rubber tire, but this could be a wheel not on a car. We cannot logically conclude that cars don't have rubber tires on their wheels."
+      }
+    ]
+  },
+  {
+    "context": "cats are furry animals. furry animals normally have thick fur. at least one furry animal does not have thick fur.",
+    "qa_pairs": [
+      {
+        "question": "does this entail that cats have thick fur?",
+        "answer": "no",
+        "reason": "The context states that furry animals normally have thick fur, and cats are furry animals. However, it also mentions that at least one furry animal does not have thick fur. This exception could be cats. Therefore, we cannot logically entail that cats must have thick fur."
+      },
+      {
+        "question": "does this mean that cats don't have thick fur?",
+        "answer": "no",
+        "reason": "The context says furry animals normally have thick fur, and cats are furry animals. We know at least one furry animal doesn't have thick fur, but this could be a furry animal other than cats. We cannot logically conclude that cats don't have thick fur."
+      }
+    ]
+  }
+]

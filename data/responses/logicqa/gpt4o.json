@@ -1,46 +1,99 @@
+
 [
   {
     "id": 2920,
-    "answer": 3
+    "answer": 3,
+    "reason": "Female teachers consist of at least 7 young female teachers plus at least 6 over-middle-age female teachers, so there are at least 13 female teachers."
   },
   {
     "id": 10654,
-    "answer": 0
+    "answer": 0,
+    "reason": "If the three largest loans were paid off early, their later, higher graduated payments wouldn’t be made, causing the overall average payment to fall."
   },
   {
     "id": 2892,
-    "answer": 3
+    "answer": 2,
+    "reason": "If the notebook share of total sales rose from 68% to 72%, notebook sales must have grown faster than total sales, contradicting the given slower growth."
   },
   {
     "id": 10448,
-    "answer": 3
+    "answer": 3,
+    "reason": "The scientists’ claim was only to show that reducing inputs without lowering yield is possible; whether their chosen farm was representative is irrelevant to that point."
   },
   {
     "id": 726,
-    "answer": 0
+    "answer": 0,
+    "reason": "The stem states Xiao Liu is a member but, due to illness, did not obtain volunteer qualification, so he is a member without qualification."
   },
   {
     "id": 8850,
-    "answer": 3
+    "answer": 3,
+    "reason": "Saying that if caught doing something stupid you’ll admit bad luck changes the meaning; the original is about avoiding the act altogether, not attitudes to luck."
   },
   {
     "id": 4369,
-    "answer": 1
+    "answer": 1,
+    "reason": "Chairman Li transferred his property while alive, which fits the definition of a living gift."
   },
   {
     "id": 736,
-    "answer": 0
+    "answer": 0,
+    "reason": "A for-profit software enterprise is not a non-governmental organization that develops spontaneously and independently as required by the definition."
   },
   {
     "id": 14862,
-    "answer": 2
+    "answer": 2,
+    "reason": "The argument assumes that different harmless chemicals won’t react together to form harmful compounds that defeat the dilution calculation."
   },
   {
     "id": 9769,
-    "answer": 2
+    "answer": 2,
+    "reason": "The passage focuses on the literati’s interest and the spiritual value expressed in the Xiyuan Ya Collection."
   },
   {
     "id": 4653,
-    "answer": 1
+    "answer": 1,
+    "reason": "The text does not discuss studying causes of forest fires; it only describes the preventive burning method."
+  },
+  {
+    "id": 5949,
+    "answer": 1,
+    "reason": "The passage describes a crisis in folk culture and implies that folk culture needs protective measures."
+  },
+  {
+    "id": 1226,
+    "answer": 0,
+    "reason": "The author argues that education has lost its people-oriented warmth—teachers lack benevolence and genuine concern."
+  },
+  {
+    "id": 6498,
+    "answer": 3,
+    "reason": "The core message is that local governments should guide urban and rural youth to choose vocational education."
+  },
+  {
+    "id": 13981,
+    "answer": 1,
+    "reason": "Q merely contradicts P by citing a counterexample without addressing P’s reasoning, offering no evidence against the original claim."
+  },
+  {
+    "id": 14540,
+    "answer": 1,
+    "reason": "Willett’s conclusion is that Lopez and Simmons would be unwise to reveal their marriage before being hired."
+  },
+  {
+    "id": 6299,
+    "answer": 1,
+    "reason": "The author contrasts ancient folk methods with modern data-driven seismic research, implying they run counter to modern practice."
+  },
+  {
+    "id": 6134,
+    "answer": 3,
+    "reason": "The greenhouse effect argument (that global warming causes people to cool down) least supports the conclusion about a steady drop in body temperature."
+  },
+  {
+    "id": 4444,
+    "answer": 1,
+    "reason": "Whether he likes instruments or not, the conditionals entail that in every case Xu Ping will end up learning to play Erhu."
   }
 ]
+

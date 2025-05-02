@@ -1,0 +1,83 @@
+
+[
+  {
+    "label": "not entailed",
+    "reason": "The major premise states Professor Wu talked about system theory, and the minor premise mentions that many systems are observable but the 'black box' is not. This doesn't logically entail that 'the black box is the system' - it only states that the black box is not observable, while many (other) systems are."
+  },
+  {
+    "label": "not entailed", 
+    "reason": "There's a mismatch between premises and conclusion. The premises are about Yunshan tea, while the conclusion is about drivers and licenses. Even if we were to focus on just the conclusion, 'Xiao Zheng has a driver's license' doesn't entail 'Xiao Zheng is the driver' - having a license is necessary but not sufficient to be a driver."
+  },
+  {
+    "label": "entailed",
+    "reason": "From the minor premise: (1) If Zhang Sheng likes photography, he likes to travel; (2) If he doesn't like photography, he likes to drive; (3) If he doesn't like to travel, he won't be interested in driving. From (3), if he doesn't like travel, he won't like driving. But from (2), if he doesn't like photography, he likes driving. This creates a contradiction if he doesn't like travel. Therefore, he must like to travel."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The major premise defines separation of government and enterprises as distinction between ownership and management rights, returning powers to enterprises and changing government focus from micro to macro management. This actually contradicts the conclusion that the government appoints officials and decides personnel/salary systems."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises discuss automobile exhaust emissions and public health, using a correlation to argue against health risks. The conclusion is about cell phones and driving safety, which is a completely different topic. There's no logical connection between these premises and the conclusion."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises state that big-budget movies often gross 2-3 times their cost, but most industry revenue comes from low-budget movies. This doesn't necessarily mean there are more low-budget movies produced. It could be that low-budget movies are fewer but generate more revenue per movie."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premise defines psychosocial ability as the ability to handle challenges and maintain good psychological states. The minor premise doesn't provide relevant information, and the conclusion about Zheng being transferred due to incompetence from disease doesn't clearly relate to psychosocial ability as defined."
+  },
+  {
+    "label": "entailed",
+    "reason": "The major premise states that 90% of information that enters humans from the outside world comes from the eye. The conclusion states that information from other senses (ears, nose, tongue, body) is less than 10%, which is logically consistent with the premise."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The major premise explains the expansion of the universe after the Big Bang and how matter concentrates to form galaxies. The conclusion asks 'Why did the universe explode,' which is not addressed in the premises. The premise takes the Big Bang as a starting point but doesn't explain why it occurred."
+  },
+  {
+    "label": "entailed",
+    "reason": "The premises describe a pattern where children escalate problematic behavior until parents give in to their demands, after which the child stops the behavior. This directly entails the conclusion that 'A child can get what it wants by doing what its parent doesn't want it to do.'"
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises establish that there are 6 assistants, each assistant manages at least one department, only one assistant manages all three departments, and certain pairs (F&G, H&I) don't manage the same department. These constraints don't necessarily force M and P to manage only one department each."
+  },
+  {
+    "label": "entailed",
+    "reason": "The major premise states children from second-hand smoke families are more likely to suffer from otitis media, with 78% of otitis media cases coming from such families. This supports the conclusion that parental smoking is 'an important cause' (though not necessarily the only cause) of otitis media in children."
+  },
+  {
+    "label": "entailed",
+    "reason": "Conventional thinking is defined as analyzing new problems with automatic inertia based on past experience. 'Following the crowd' exemplifies this definition - it's solving problems by defaulting to what others do rather than independent analysis."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises state that head injuries are the most serious type in motorcycle accidents and that helmet-wearing reduces costs, but they don't compare costs of treating head injuries vs. other injuries specifically. The comparison is between helmeted and non-helmeted victims, not between injury types."
+  },
+  {
+    "label": "entailed",
+    "reason": "The major premise discusses how cultures change and face erosion from globalization and modernization, noting that with vigilance, cultural changes can be reduced and preserved. This supports the conclusion that changing cultures should maintain their personality."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises state some people oppose hiring auxiliary managers because they think more violations will be found requiring formal managers. The minor premise contradicts this by saying violations can be handled on the spot. The conclusion that this will lead to a shortage of formal managers doesn't follow from these contradictory premises."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises state that sea otters avoid areas with red tide toxins in clams and taste clams before foraging. This doesn't entail the conclusion about toxin amounts - the premises don't discuss toxin quantities or their effects on sea otters at all."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The major premise discusses calendar problems and suggests a solution where certain days belong to no week. The conclusion refers to religious observers who can't work every seventh day, but there's no logical connection showing how the calendar proposal specifically relates to or benefits these observers."
+  },
+  {
+    "label": "entailed",
+    "reason": "Ecological migration is defined as migration to protect ecology or due to harsh environments. The conclusion describes people moving due to reservoir construction, which would be for ecological purposes (changing the environment for the reservoir), fitting the definition."
+  },
+  {
+    "label": "not entailed",
+    "reason": "The premises state that both professional and amateur scientists make significant contributions, and amateurs are motivated by love of discovery while professionals often have other motivations. This doesn't entail that professionals would be more likely to make significant contributions if motivated by love of discovery."
+  }
+]

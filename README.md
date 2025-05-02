@@ -10,7 +10,7 @@
 
 ## TODO
 
-- [ ] 20 examples from each dataset and 7 datasets, 4 models (ChatGpt-4o, o4 mini, Mistral, DeepSeek R1.)
+- [ ] 20 examples from each dataset and 7 datasets, 4 models (ChatGpt-4o, o4 mini, Mistral, Claude 3.7)
 - [ ] Automated evaluation of sentence complexity and finding is there any corelation between sentence complexity and llm response(glue or rouge score).
 - [ ] Evaluating LLM responses on 4 criteria: answer correctness, explain correctness, explain completeness, explain redudandancy.
 

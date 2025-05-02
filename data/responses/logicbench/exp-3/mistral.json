@@ -1,0 +1,152 @@
+[
+  {
+      "context": "cats are carnivores. carnivores normally eat meat. at least one carnivore does not eat meat.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that cats usually eat meat?",
+              "answer": "yes",
+              "reason": "Cats are carnivores, and carnivores normally eat meat."
+          },
+          {
+              "question": "does this entail that cats usually don't eat meat?",
+              "answer": "no",
+              "reason": "The statement does not imply that cats are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "cars usually have four wheels. wheels are round in shape. at least one car does not have four wheels.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that most cars have round wheels?",
+              "answer": "yes",
+              "reason": "Cars usually have four wheels, and wheels are round in shape."
+          },
+          {
+              "question": "does this entail that most cars don't have round wheels?",
+              "answer": "no",
+              "reason": "The statement does not imply that most cars are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "apples are red. red fruits are usually sweet. at least one red fruit is not sweet.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that apples are sweet?",
+              "answer": "no",
+              "reason": "The statement does not specify that apples are the rule or the exception."
+          },
+          {
+              "question": "does this mean that apples aren't sweet?",
+              "answer": "no",
+              "reason": "The statement does not specify that apples are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "dolphins are mammals. mammals normally live on land. at least one mammal lives in the water.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that dolphins live in the water?",
+              "answer": "no",
+              "reason": "The statement does not specify that dolphins are the exception to the rule."
+          },
+          {
+              "question": "does this entail that dolphins don't live in the water?",
+              "answer": "no",
+              "reason": "The statement does not specify that dolphins are the rule."
+          }
+      ]
+  },
+  {
+      "context": "cows are black and white. black and white animals usually live on farms. at least one black and white animal does not live on a farm.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that cows live on farms?",
+              "answer": "no",
+              "reason": "The statement does not specify that cows are the rule or the exception."
+          },
+          {
+              "question": "does this entail that cows don't live on farms?",
+              "answer": "no",
+              "reason": "The statement does not specify that cows are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "dolphins are mammals. mammals normally breathe air. at least one mammal breathes water instead of air.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that dolphins breathe air?",
+              "answer": "yes",
+              "reason": "Dolphins are mammals, and mammals normally breathe air."
+          },
+          {
+              "question": "does this entail that dolphins don't breathe air?",
+              "answer": "no",
+              "reason": "The statement does not imply that dolphins are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "cows are herbivores. herbivores normally eat plants. at least one herbivore eats something other than plants.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that cows eat plants?",
+              "answer": "yes",
+              "reason": "Cows are herbivores, and herbivores normally eat plants."
+          },
+          {
+              "question": "does this imply that cows don't eat plants?",
+              "answer": "no",
+              "reason": "The statement does not imply that cows are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "pineapples are sweet. sweet fruits are usually eaten as desserts. at least one sweet fruit is not eaten as a dessert.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that pineapples are eaten as a dessert?",
+              "answer": "no",
+              "reason": "The statement does not specify that pineapples are the rule or the exception."
+          },
+          {
+              "question": "does this mean that pineapples aren't eaten as a dessert?",
+              "answer": "no",
+              "reason": "The statement does not specify that pineapples are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "cars have four wheels. wheels normally have rubber tires. at least one wheel does not have a rubber tire.",
+      "qa_pairs": [
+          {
+              "question": "does this mean that cars have rubber tires on their wheels?",
+              "answer": "yes",
+              "reason": "Cars have four wheels, and wheels normally have rubber tires."
+          },
+          {
+              "question": "does this mean that cars don't have rubber tires on their wheels?",
+              "answer": "no",
+              "reason": "The statement does not imply that cars are the exception to the rule."
+          }
+      ]
+  },
+  {
+      "context": "cats are furry animals. furry animals normally have thick fur. at least one furry animal does not have thick fur.",
+      "qa_pairs": [
+          {
+              "question": "does this entail that cats have thick fur?",
+              "answer": "no",
+              "reason": "The statement does not specify that cats are the rule or the exception."
+          },
+          {
+              "question": "does this mean that cats don't have thick fur?",
+              "answer": "no",
+              "reason": "The statement does not specify that cats are the exception to the rule."
+          }
+      ]
+  }
+]

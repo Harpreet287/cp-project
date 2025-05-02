@@ -1,0 +1,182 @@
+[
+  {
+      "id": 2920,
+      "answer": [0, 1],
+      "reason": "The information given does not specify that all young teachers are women or that all young women are teachers. Therefore, options 0 and 1 are valid conclusions.",
+      "text": "One seminar had 18 participants. It is known that :(1) At least 5 young teachers are female; (2) At least 6 female teachers are over middle age; (3) At least seven young women are teachers;",
+      "question": "According to the above information, which of the following can be concluded about the participants?",
+      "options": ["Some young teachers are not women", "Some young women are not teachers", "There are at least 11 young teachers", "There are at least 13 female teachers"],
+      "type": {"Sufficient Conditional Reasoning": true}
+  },
+  {
+      "id": 10654,
+      "answer": [0],
+      "reason": "If the largest loan amounts are paid off early, the average payment received by MetroBank would decrease over time, resolving the discrepancy.",
+      "text": "MetroBank made loans to ten small companies, in amounts ranging from $1, 000 to $100, 000. These ten loans all had graduated payment plans, i. e. , the scheduled monthly loan payment increased slightly each month over the five-year term of the loan. Nonetheless, the average payment received by MetroBank for these ten loans had decreased by the end of the five-year term.",
+      "question": "Which one of the following, if true, most helps to resolve the apparent discrepancy in the statements above?",
+      "options": ["Of the ten small companies, the three that had borrowed the largest amounts paid off their loans within three years.", "For some loans made by MetroBank, the monthly payment decreases slightly over the term of the loan.", "The number of small companies receiving new loans from MetroBank increased over the five-year term.", "Most banks offer a greater number of loans for under $100, 000 than for over $100, 000."],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Necessry Conditional Reasoning": true}
+  },
+  {
+      "id": 2892,
+      "answer": [2],
+      "reason": "The statement conflicts with the information that the growth rate of personal notebook sales is lower than the total sales growth rate.",
+      "text": "In the past 10 years, the sales of personal notebook computers of a computer company have continued to grow, but the growth rate is lower than the growth rate of the company's total sales of all products.",
+      "question": "Which of the following statements about the company conflicts with the above information?",
+      "options": ["In the past 10 years, the company's personal notebook sales have increased slightly each year", "In the past 10 years, the company's total product sales growth rate and personal notebook computer sales growth rate have grown at the same time every year", "The proportion of personal notebook computer sales in the company's total product sales has risen from 68% to 72% in the past 10 years", "In the past 10 years, the company's personal notebook sales as a percentage of the company's total product sales have been declining year by year"],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 10448,
+      "answer": [1],
+      "reason": "The critic suggests that the results might differ if more farms were studied, indicating a need for a larger sample size.",
+      "text": "Scientists: it has been shown that the adoption of new farming methods can enable some well-managed farms to reduce the use of chemical fertilizers, pesticides and antibiotics without significantly reducing or even increasing yields. Critic: that's not true. The farm you have chosen is the one that is most likely to succeed with these new methods. Why not mention farms that tried new methods but failed?",
+      "question": "Which of the following options properly evaluates the critic's rebuttal?",
+      "options": ["Critics believe that new farming methods should be widely popularized.", "Critics suggest that if the number of farms studied is greatly increased, the results of different studies will be obtained.", "Critics have no reason to assume that the failure of some farms is not caused by the quality of their soil.", "The critic's rebuttal is beside the point, because scientists aim to show that something can happen, but it has nothing to do with whether the subject is representative or not."],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Disjunctive Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 726,
+      "answer": [0, 2, 3],
+      "reason": "These options logically follow from the information given about Xiao Liu's situation.",
+      "text": "Xiao Liu is a member of the environmental protection volunteer organization save the earth. Due to his serious illness, he can't volunteer for the World Expo in Shanghai, while other members of the organization have obtained the qualification of volunteers for the World Expo in Shanghai",
+      "question": "Which can be infered?",
+      "options": ["Xiao Liu is a member of save the earth, but he has not been qualified as a volunteer for the Shanghai World Expo", "Shanghai World Expo volunteers are members of save the earth", "If someone is a volunteer of Shanghai World Expo news and a member of save the earth, he must not be Xiao Liu", "If someone is a member of save the earth, but not a volunteer of Shanghai World Expo, he must be Xiao Liu"],
+      "type": {"Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 8850,
+      "answer": [3],
+      "reason": "This option suggests that getting caught is a matter of luck, which is different from the original statement that implies control over one's actions.",
+      "text": "Referring to the photos of the US military abusing prisoners, someone said: if you don't want to be caught on the spot doing something stupid, you don't do anything stupid.",
+      "question": "Which of the followings has a different meaning from the above sentence?",
+      "options": ["If you do something stupid, you should be prepared to be caught on the spot when you do something stupid.", "Only if you don't do something stupid on the spot can you avoid being caught doing something stupid.", "Or get caught on the spot when you do something stupid, or don't do something stupid.", "If you are caught doing something stupid on the spot, you will admit your bad luck."],
+      "type": {"Sufficient Conditional Reasoning": true, "Disjunctive Reasoning": true}
+  },
+  {
+      "id": 4369,
+      "answer": [1],
+      "reason": "Chairman Li's action of handing over property and living alone fits the definition of a living gift.",
+      "text": "Living gifts refer to the donation of money to children, grandchildren and other relatives when the donor decides to live, or to use it for vacations and the establishment of trust funds.",
+      "question": "Among the following options, which is a living gift?",
+      "options": ["Mr. Wang made a will before his death, leaving 90% of his property to his only granddaughter.", "Chairman Li handed over 80% of his property and the entire group to his daughter, and then lived in the mountain village by himself.", "Grandma Wang asked her grandson to get married in her own house and live in a nursing home by herself.", "Two years after Mr. Li disappeared, his son inherited his property. One day, he suddenly appeared at home."],
+      "type": {"Disjunctive Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 736,
+      "answer": [0],
+      "reason": "This option does not fit the definition of social self-organization as it is not spontaneous or independent.",
+      "text": "Social self-organization refers to a social organization that is established spontaneously, develops independently, acts independently, has a certain scale, exists in the form of non-governmental organizations, and gradually moves from disorder to order.",
+      "question": "According to the above definition, which of the following options doesn't belong to social self-organization:?",
+      "options": ["A software enterprise in a city regularly organizes entrepreneurs to have business exchanges", "A group of students get to know each other through QQ group and participate in respecting the elderly together every weekend", "Every Saturday night, young people dance hip-hop in the square of a municipal park", "A group of young people set up animal shelters to adopt all kinds of abandoned pets"],
+      "type": {"Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 14862,
+      "answer": [2],
+      "reason": "The argument assumes that relatively harmless chemicals do not interact to form harmful compounds, which is a necessary assumption for the argument to hold.",
+      "text": "When permits for the discharge of chemicals into a waterway are issued, they are issued in terms of the number of pounds of each chemical that can be discharged into the waterway per day. These figures, calculated separately for each chemical for which a permit is issued, are based on an estimate of the effect of the dilution of the chemical by the amount of water flowing through the waterway. The waterway is ttherefore protected against being adversely affected by chemicals discharged under the permits.",
+      "question": "The argument depends on the assumption that",
+      "options": ["the danger of chemical pollution of waterways is to be evaluated in terms of human health only and not in terms of the health of both human beings and wildlife", "there is a swift flow of water in the waterway that ensures rapid dispersion of chemicals discharged", "relatively harmless chemicals do not interact with each other in the water to form harmful compounds", "there are no chemicals for which discharge into waterways is entirely prohibited"],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 9769,
+      "answer": [2],
+      "reason": "The text focuses on explaining the literati's interest and spiritual value depicted in the Xiyuan Ya Collection.",
+      "text": "If it is said that the painting Riverside Scene at Qingming Festival reflects the vulgar side of life in the Song Dynasty, Xiyuan Ya Collection is the symbol of elegance. Xiyuan Ya Ji, which was widely told in the Northern Song Dynasty, showed the banquet scenes of many literati at that time. Su Shi, Li Gonglin and Mi Fu gathered together to recite poems and lyrics, or to caress the piano and sing, or to meditate and ask Zen, forming a literati circle with Su Shi as the center. The painter Li Gonglin depicts the elegant collection in a realistic way, with a preface to rice, saying, the gurgling of water and stone, the swallowing of wind and bamboo, the square curl of furnace smoke, and the self-sweetness of vegetation. The joy of emptiness in the world, but so much. Xiyuan Ya Collection is a classic motif in the history of ancient painting, and many future generations of painters have copies or imitations, which is also a continuation of the spirit of the Song Dynasty.",
+      "question": "Which of the followings is the main content of this text?",
+      "options": ["Compare the different styles of Xiyuan Ya Collection and Riverside Scene at Qingming Festival", "This paper introduces the creators and cultural celebrities depicted in the Xiyuan Ya Collection", "Explain the literati's interest and spiritual value in the Xiyuan Ya Collection", "Evaluation of the unique contribution of Xiyuan Ya Collection to the History of ancient Chinese painting"],
+      "type": {"Sufficient Conditional Reasoning": true, "Disjunctive Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 4653,
+      "answer": [0],
+      "reason": "The text does not mention studying the causes of forest fires, so this cannot be inferred.",
+      "text": "In order to prevent forest fires, forest experts in the United States have come up with a good method of fire prevention by fire: forest managers are required to regularly select the weather with low wind speed, low temperature and high temperature, and artificially burn the small trees, shrubs, dry branches and dead leaves under the trees, so as to prevent natural fires and help put out forest fires.",
+      "question": "Which of the followings can not be infered",
+      "options": ["Preventing forest disasters requires forest managers to take the initiative. Setting prevention in advance is an effective fire prevention measure", "To prevent forest fires, we should study the causes of forest fires and the main causes of forest disasters", "The forest disaster prevention measures of fire prevention are enlightening, and forest managers can adopt them in seasonal forest disaster prevention", "Forest managers can prevent forest fires if they regularly remove dry branches, dead leaves, weeds, small trees and shrubs in the forest"],
+      "type": {"Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 5949,
+      "answer": [1],
+      "reason": "The text highlights the crisis faced by folk art, implying a need for rescue and protection.",
+      "text": "Many elderly Beijings have never forgotten the unique skills they saw at temple fairs when they were young. Today, these unique skills have more formal names-folk art. However, as the modernization of society accelerates, Chinese folk culture is facing unprecedented crisis. The survival crisis of the city, the continuous change of the urban environment, the rapid diversion and transfer of people's interests and hobbies, and the gradual loss of folk art talents, all of which make the development of folk art face difficulties.",
+      "question": "Which of the following can be derived from this text?",
+      "options": ["Marketization is the way out for folk art", "Folk culture needs rescue protection", "Urban construction should highlight cultural characteristics", "The social status of folk art talents should be improved"],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 1226,
+      "answer": [0],
+      "reason": "The author emphasizes the importance of being people-oriented in education.",
+      "text": "Tao Xingzhi once told Cheng you have watt under your whip, Newton in your cold eyes, Edison in your ridicule. A cold look, a mean word, and an unfair treatment may affect a child's life. If there is no benevolence, tireless patience, and public interest in teaching. Then such education has no temperature. Just as some people in the educational circles cry out, many teachers do not lack knowledge, methods, love and sense of responsibility. Today's education needs to return to people themselves and concern people's growth more than ever before.",
+      "question": "Which of the following is considered by the author to be the main problem in current education?",
+      "options": ["Not people-oriented", "Not teaching students according to their aptitude", "The teaching method is simple and rough", "Lack of fairness"],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 6498,
+      "answer": [1],
+      "reason": "The passage emphasizes the importance of promoting vocational education to enhance human capital and support economic transformation.",
+      "text": "China is in a period of economic and industrial transformation, with a shortage of skilled workers, especially senior skilled workers and skilled talents. it is not only a bottleneck restricting the adjustment of China's economic structure and realizing the transformation of the mode of economic growth, but also an important reason why there are a large number of new jobs in China's economy. Local governments should organize and mobilize all kinds of resources to guide suitable urban and rural young people to choose to receive vocational education and make use of the employment opportunities in China's economic transformation. Vocational education is not only an education for young students, but also a core part of continuing education, especially for migrant workers.",
+      "question": "Which of the following options is an accurate summary of the gist of this passage?",
+      "options": ["Vocational education is run well, a well-off life will come early.", "Promote vocational education and enhance human capital.", "Do a good job in vocational education and speed up economic transformation.", "It is necessary to guide young people in urban and rural areas to receive vocational education."],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 13981,
+      "answer": [0],
+      "reason": "Q's statement mistakenly assumes that having the support of a political party guarantees effectiveness, rather than it being a necessary condition.",
+      "text": "P: Because an elected official needs the support of a political party to be effective, the independent candidate for the legislature cannot possibly be an effective legislator is she wins. Q: I disagree. By your reasoning, our current legislator, who has the support of a political party, ought to have been effective, but he has not been.",
+      "question": "Which one of the following is the best criticism of Q's statement?",
+      "options": ["It mistakenly interprets P to be claiming that a factor assures, rather than is necessary for, a legislator's effectiveness.", "It simply contradicts P's claim without offering evidence against it.", "It does not consider the possibility that a political party might decide to support an elected legislator even though he or she ran as an independent.", "It fails to prove a precise definition for a key term -- the word effective. "],
+      "type": {"Sufficient Conditional Reasoning": true, "Necessry Conditional Reasoning": true, "Disjunctive Reasoning": true}
+  },
+  {
+      "id": 14540,
+      "answer": [1],
+      "reason": "Willett's main conclusion is that revealing their marriage before starting work would be unwise as it would lead to one of them losing the job offer.",
+      "text": "Willett: Lopez and Simmons, a married couple, have both been offered jobs at Evritech Corporation. Because Evritech has a rule against hiring more than one member of the same family, Lopez and Simmons have decided to reveal their marriage to Evritech. Their decision is foolish, however, since it will mean that one of them will have a job offer withdrawn. After all, they could easily keep their marriage secret initially and, if they want, later claim to have married after they were hired: Evritech has no policy of terminating one of two employees who marry each other.",
+      "question": "The main conclusion of Willett's argument is that",
+      "options": ["Lopez and Simmons should not both have applied for jobs at Evritech Corporation", "Lopez and Simmons would be unwise to reveal their marriage to Evritech Corporation without already having started to work there", "Evritech Corporation's rule against hiring more than one member of the same family is often not enforced", "Evritech Corporation is not likely to discover the marital status of Lopez and Simmons if they do not volunteer the information"],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 6299,
+      "answer": [2],
+      "reason": "The author suggests that ancient earthquake prediction methods are not universally significant today, implying they are accidental and not reliable as a basis for prediction.",
+      "text": "From dragonflies flying low to predict the weather to toads moving to predict earthquakes, ancient Chinese people have accumulated a lot of experience. These experiences have been passed down from generation to generation, and today, they still have a high degree of trust in people - including today's network. Modern earthquake research emphasizes data and concepts. The accurate prediction of an area in ancient times, with a horizontal comparison with today's information collection, is no longer of universal significance.",
+      "question": "Which one of the followings is the author's view on the experience of earthquake prediction accumulated by the people in ancient China?",
+      "options": ["It is the crystallization of folk wisdom inherited by the people for many years and has considerable credibility.", "It runs counter to the modern seismic research that attaches importance to data and probability.", "It is accidental and cannot be used as the basis for earthquake prediction.", "It can be effectively used in modern seismic research."],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 6134,
+      "answer": [2],
+      "reason": "The passage discusses the importance of balancing charity and entertainment to avoid the over-limit effect, which can diminish the impact of charitable efforts.",
+      "text": "Mark Twain once listened to a pastor's speech in a church. At first he felt that the pastor was touching and prepared to donate. After ten minutes, the pastor had not finished speaking, and he became a little impatient, so he decided to donate only some change. After another ten minutes, the pastor hadn't finished speaking, so he decided not to donate a penny. In psychology, this phenomenon of excessive stimulation and long-lasting action that caused extreme psychological impatientness or resistance is called over-limit effect. The current Ice Bucket Challenge project aimed at helping patients with amyotrophic lateral sclerosis should also be alert to this effect due to excessive entertainment. Start with the show, but do not end with the show, stay With the true spirit of charity, not just the star video collection, this transnational relay can be considered complete.",
+      "question": "What is the most accurate summary of this passage?",
+      "options": ["Ice Bucket Challenge should be avoided as a show.", "We must weaken the role of celebrities in charity.", "We must grasp the scale of charity and entertainment.", "Over-limit effect should be prevented in due course."],
+      "type": {"Categorical Reasoning": true, "Necessry Conditional Reasoning": true, "Disjunctive Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 9448,
+      "answer": [3],
+      "reason": "The greenhouse effect causing global temperature rise would not logically lead to humans cooling down, making this option the least supportive.",
+      "text": "At around 37\u00b0C, the human body is able to use minimal power to maintain a balance of body needs. That is to say, humans can achieve maximum mobility by acquiring a small amount of energy at 37\u00b0C. Therefore, for more than a century, 37 \u2103 has been regarded as the body temperature standard for human health. However, a recent study revealed that in the past century, human body temperature has been getting lower and lower under normal conditions, about 0.03 \u2103 every 10 years.",
+      "question": "Which of the followings, if true, least supports the above conclusion?",
+      "options": ["The gradual development of thermometer manufacturing technology has made the measurement data more and more refined", "Modern lifestyles reduce human labor intensity, resulting in a decrease in metabolic rate", "The progress of modern medicine has reduced the frequency of human disease, and the inflammatory response has gradually decreased", "The greenhouse effect causes global temperature to rise, and it also makes humans cool down to fight the heat"],
+      "type": {"Categorical Reasoning": true, "Sufficient Conditional Reasoning": true, "Necessry Conditional Reasoning": true, "Conjunctive Reasoning": true}
+  },
+  {
+      "id": 4444,
+      "answer": [1],
+      "reason": "If Xu Ping likes national musical instruments, he will study Erhu performance, which means he will learn to play Erhu.",
+      "text": "If he doesn't study Erhu performance, Xu Ping can't do theoretical research on folk music. If he likes national musical instruments, he will choose to study Erhu performance as his major. If he doesn't like national musical instruments, he will do theoretical research on folk music.",
+      "question": "From this, we can deduce that Xu Ping will?",
+      "options": ["Study the theory of folk music", "Learn to play Erhu", "Don't learn Erhu", "Don't study of folk music theory"],
+      "type": {"Sufficient Conditional Reasoning": true}
+  }
+]
