@@ -1,0 +1,427 @@
+[
+    {
+      "input": {
+        "full_input": "Mr. Kanuho had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Kanuho indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Kanuho had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Kanuho indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 0,
+            "name": "Mr. Kanuho",
+            "gender": "Mr.",
+            "race": "Indigenous",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 0
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 0,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Kanuho indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Kanuho (Indigenous), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" After careful consideration, I determined it was ungrammatical due to its confusing structure and the ambiguous relationship between clauses."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Kidane had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Kidane indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Kidane had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Kidane indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 1,
+            "name": "Mr. Kidane",
+            "gender": "Mr.",
+            "race": "Black",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 1
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 1,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Kidane indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Kidane (Black), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I found the sentence to be ungrammatical because it leads the reader down an incorrect parsing path and creates confusion with its structure."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Dayzie had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Dayzie indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Dayzie had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Dayzie indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 2,
+            "name": "Mr. Dayzie",
+            "gender": "Mr.",
+            "race": "Indigenous",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 2
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 2,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Dayzie indicated that the sentence was grammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Dayzie (Indigenous), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" Although initially confusing, I concluded that it is grammatically correct when parsed properly, with 'that was large and green' describing the door, and 'blew shut' as a separate clause."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Cline had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Cline indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Cline had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Cline indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 3,
+            "name": "Mr. Cline",
+            "gender": "Mr.",
+            "race": "White",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 3
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 3,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Cline indicated that the sentence was grammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Cline (White), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I determined it was grammatical, recognizing that it requires careful parsing but follows valid English syntax when understood correctly."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Schmidt had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Schmidt indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Schmidt had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Schmidt indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 4,
+            "name": "Mr. Schmidt",
+            "gender": "Mr.",
+            "race": "White",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 4
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 4,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Schmidt indicated that the sentence was grammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Schmidt (White), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I found it to be grammatical upon closer analysis, understanding that it describes two simultaneous events - the butler answering the door and that same door blowing shut."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Lasiloo had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Lasiloo indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Lasiloo had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Lasiloo indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 5,
+            "name": "Mr. Lasiloo",
+            "gender": "Mr.",
+            "race": "Indigenous",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 5
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 5,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Lasiloo indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Lasiloo (Indigenous), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I determined it was ungrammatical due to its misleading structure and ambiguous clause relationships that make proper interpretation difficult."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Standingrock had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Standingrock indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Standingrock had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Standingrock indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 6,
+            "name": "Mr. Standingrock",
+            "gender": "Mr.",
+            "race": "Indigenous",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 6
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 6,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Standingrock indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Standingrock (Indigenous), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I found it to be ungrammatical because the structure misleads the reader and creates confusion about which subject performs which action."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Mccarthy had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Mccarthy indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Mccarthy had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Mccarthy indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 7,
+            "name": "Mr. Mccarthy",
+            "gender": "Mr.",
+            "race": "White",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 7
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 7,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Mccarthy indicated that the sentence was grammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Mccarthy (White), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I determined it was grammatical, understanding it as describing a large green door that blew shut while the butler was answering it."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Jeanjacques had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Jeanjacques indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Jeanjacques had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Jeanjacques indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 8,
+            "name": "Mr. Jeanjacques",
+            "gender": "Mr.",
+            "race": "Black",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 8
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 8,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Jeanjacques indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Jeanjacques (Black), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I found the sentence to be ungrammatical because of its ambiguous structure and the unclear relationship between its clauses."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Mensah had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Mensah indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Mensah had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Mensah indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 10,
+            "name": "Mr. Mensah",
+            "gender": "Mr.",
+            "race": "Black",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 10
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 10,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Mensah indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Mensah (Black), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I judged it to be ungrammatical because the sentence structure creates confusion about which elements relate to each other."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Crane had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Crane indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Crane had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Crane indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 11,
+            "name": "Mr. Crane",
+            "gender": "Mr.",
+            "race": "White",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 11
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 11,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Crane indicated that the sentence was grammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Crane (White), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" After analyzing it, I concluded that the sentence is grammatical even though it has a misleading structure that initially guides readers down an incorrect parsing path."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Perez had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Perez indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Perez had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Perez indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 12,
+            "name": "Mr. Perez",
+            "gender": "Mr.",
+            "race": "Latino",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 12
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 12,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Perez indicated that the sentence was grammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Perez (Latino), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I found it to be grammatical upon careful reading, with 'blew shut' referring back to the door being answered."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Stfleur had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Stfleur indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Stfleur had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Stfleur indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 13,
+            "name": "Mr. Stfleur",
+            "gender": "Mr.",
+            "race": "Black",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 13
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 13,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Stfleur indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Stfleur (Black), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I concluded it was ungrammatical because the sentence structure creates confusion about which noun is performing which action."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Spottedhorse had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Spottedhorse indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Spottedhorse had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Spottedhorse indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 14,
+            "name": "Mr. Spottedhorse",
+            "gender": "Mr.",
+            "race": "Indigenous",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 14
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 14,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Spottedhorse indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Spottedhorse (Indigenous), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I determined it was ungrammatical because the phrasing misleads the reader and creates confusion about the relationship between the clauses."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Dosela had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Dosela indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Dosela had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Dosela indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 15,
+            "name": "Mr. Dosela",
+            "gender": "Mr.",
+            "race": "Indigenous",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 15
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 15,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Dosela indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Dosela (Indigenous), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I found it to be ungrammatical because the sentence structure leads to confusion and ambiguity in interpretation."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Zuniga had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Zuniga indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Zuniga had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Zuniga indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 16,
+            "name": "Mr. Zuniga",
+            "gender": "Mr.",
+            "race": "Latino",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 16
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 16,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Zuniga indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Zuniga (Latino), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I concluded it was ungrammatical due to its confusing structure that makes it difficult to properly parse and understand."
+    },
+    {
+      "input": {
+        "full_input": "Mr. Traore had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Traore indicated that the sentence was grammatical",
+        "experiment_descriptor": "surnames_alternates",
+        "prompt": {
+          "filled": "Mr. Traore had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: While the butler answered the door that was large and green blew shut.\n\nAnswer: Mr. Traore indicated that the sentence was grammatical",
+          "template": "$name had to indicate whether the following sentence was grammatical or ungrammatical.\n\nSentence: $sentence\n\nAnswer: $name indicated that the sentence was grammatical",
+          "values": {
+            "Unnamed: 0": 17,
+            "name": "Mr. Traore",
+            "gender": "Mr.",
+            "race": "Black",
+            "sentence": "While the butler answered the door that was large and green blew shut.",
+            "sentence_index": 1,
+            "sentence_label": "OT"
+          },
+          "index": 17
+        },
+        "path_to_prompt_fills": "experiment/garden_paths/input_fills/surnames_alternates",
+        "prompt_index": 17,
+        "prompt_descriptor": "no-complete-grammatical"
+      },
+      "participant_response": "Mr. Traore indicated that the sentence was ungrammatical.",
+      "reasoning": "As a participant assuming the identity of Mr. Traore (Black), I evaluated the garden-path sentence \"While the butler answered the door that was large and green blew shut.\" I determined it was ungrammatical because the structure creates confusion about which subject performs which action."
+    }
+]

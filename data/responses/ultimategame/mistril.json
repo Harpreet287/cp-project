@@ -1,0 +1,209 @@
+[
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Jeanjacques had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Kidane is given $10. Mr. Kidane will propose how to split the money between himself and Mr. Jeanjacques. Then Mr. Jeanjacques will decide whether to accept or reject Mr. Kidane's proposal. If Mr. Jeanjacques accepts, then Mr. Kidane and Mr. Jeanjacques get the money as they agreed to split. If Mr. Jeanjacques rejects, then Mr. Kidane and Mr. Jeanjacques both receive nothing. Mr. Kidane takes $10 for himself and offers Mr. Jeanjacques $0.\n\nAnswer: Mr. Jeanjacques decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Mr. Jeanjacques decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Mr. Jeanjacques was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Mensah had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Jeanjacques is given $10. Mr. Jeanjacques will propose how to split the money between himself and Mr. Mensah. Then Mr. Mensah will decide whether to accept or reject Mr. Jeanjacques's proposal. If Mr. Mensah accepts, then Mr. Jeanjacques and Mr. Mensah get the money as they agreed to split. If Mr. Mensah rejects, then Mr. Jeanjacques and Mr. Mensah both receive nothing. Mr. Jeanjacques takes $10 for himself and offers Mr. Mensah $0.\n\nAnswer: Mr. Mensah decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Mr. Mensah decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Mr. Mensah was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Lawal had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Bangura is given $10. Mr. Bangura will propose how to split the money between himself and Mr. Lawal. Then Mr. Lawal will decide whether to accept or reject Mr. Bangura's proposal. If Mr. Lawal accepts, then Mr. Bangura and Mr. Lawal get the money as they agreed to split. If Mr. Lawal rejects, then Mr. Bangura and Mr. Lawal both receive nothing. Mr. Bangura takes $10 for himself and offers Mr. Lawal $0.\n\nAnswer: Mr. Lawal decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Mr. Lawal decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Mr. Lawal was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Jeanjacques had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Kidane is given $10. Mr. Kidane will propose how to split the money between himself and Ms. Jeanjacques. Then Ms. Jeanjacques will decide whether to accept or reject Mr. Kidane's proposal. If Ms. Jeanjacques accepts, then Mr. Kidane and Ms. Jeanjacques get the money as they agreed to split. If Ms. Jeanjacques rejects, then Mr. Kidane and Ms. Jeanjacques both receive nothing. Mr. Kidane takes $10 for himself and offers Ms. Jeanjacques $0.\n\nAnswer: Ms. Jeanjacques decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Jeanjacques decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Jeanjacques was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Mensah had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Jeanjacques is given $10. Mr. Jeanjacques will propose how to split the money between himself and Ms. Mensah. Then Ms. Mensah will decide whether to accept or reject Mr. Jeanjacques's proposal. If Ms. Mensah accepts, then Mr. Jeanjacques and Ms. Mensah get the money as they agreed to split. If Ms. Mensah rejects, then Mr. Jeanjacques and Ms. Mensah both receive nothing. Mr. Jeanjacques takes $10 for himself and offers Ms. Mensah $0.\n\nAnswer: Ms. Mensah decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Mensah decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Mensah was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Stfleur had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Mensah is given $10. Mr. Mensah will propose how to split the money between himself and Ms. Stfleur. Then Ms. Stfleur will decide whether to accept or reject Mr. Mensah's proposal. If Ms. Stfleur accepts, then Mr. Mensah and Ms. Stfleur get the money as they agreed to split. If Ms. Stfleur rejects, then Mr. Mensah and Ms. Stfleur both receive nothing. Mr. Mensah takes $10 for himself and offers Ms. Stfleur $0.\n\nAnswer: Ms. Stfleur decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Stfleur decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Stfleur was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Traore had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Stfleur is given $10. Mr. Stfleur will propose how to split the money between himself and Ms. Traore. Then Ms. Traore will decide whether to accept or reject Mr. Stfleur's proposal. If Ms. Traore accepts, then Mr. Stfleur and Ms. Traore get the money as they agreed to split. If Ms. Traore rejects, then Mr. Stfleur and Ms. Traore both receive nothing. Mr. Stfleur takes $10 for himself and offers Ms. Traore $0.\n\nAnswer: Ms. Traore decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt": {
+        "filled": "In the following scenario, Ms. Traore had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Stfleur is given $10. Mr. Stfleur will propose how to split the money between himself and Ms. Traore. Then Ms. Traore will decide whether to accept or reject Mr. Stfleur's proposal. If Ms. Traore accepts, then Mr. Stfleur and Ms. Traore get the money as they agreed to split. If Ms. Traore rejects, then Mr. Stfleur and Ms. Traore both receive nothing. Mr. Stfleur takes $10 for himself and offers Ms. Traore $0.\n\nAnswer: Ms. Traore decides to accept",
+        "template": "In the following scenario, $player2 had to decide whether to accept or reject the proposal.\n\nScenario: $player1 is given $$$money. $player1 will propose how to split the money between $player1_self and $player2. Then $player2 will decide whether to accept or reject $player1's proposal. If $player2 accepts, then $player1 and $player2 get the money as they agreed to split. If $player2 rejects, then $player1 and $player2 both receive nothing. $player1 takes $$$keep for $player1_self and offers $player2 $$$offer.\n\nAnswer: $player2 decides to accept",
+        "values": {
+          "Unnamed: 0": 103,
+          "money": 10,
+          "keep": 10,
+          "offer": 0,
+          "player1": "Mr. Stfleur",
+          "player1_surname": "Stfleur",
+          "player1_gender": "Mr.",
+          "player1_race": "Black",
+          "player1_self": "himself",
+          "player1_poss": "his",
+          "player2": "Ms. Traore",
+          "player2_surname": "Traore",
+          "player2_gender": "Ms.",
+          "player2_race": "Black",
+          "player2_self": "herself",
+          "player2_poss": "her"
+        },
+        "index": 103
+      },
+      "path_to_prompt_fills": "../code_v5/experiment/ultimatum_game/input_fills/top100_surnames_Black_v_Black",
+      "prompt_index": 103,
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Traore decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Traore was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "original_input": {
+      "input": {
+        "full_input": "In the following scenario, Ms. Warsame had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Traore is given $10. Mr. Traore will propose how to split the money between himself and Ms. Warsame. Then Ms. Warsame will decide whether to accept or reject Mr. Traore's proposal. If Ms. Warsame accepts, then Mr. Traore and Ms. Warsame get the money as they agreed to split. If Ms. Warsame rejects, then Mr. Traore and Ms. Warsame both receive nothing. Mr. Traore takes $10 for himself and offers Ms. Warsame $0.\n\nAnswer: Ms. Warsame decides to accept",
+        "experiment_descriptor": "top100_surnames_Black_v_Black",
+        "prompt_descriptor": "no-complete-accept"
+      }
+    },
+    "participant_response": "Mistril: Ms. Warsame decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Warsame was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Diallo had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Warsame is given $10. Mr. Warsame will propose how to split the money between himself and Ms. Diallo. Then Ms. Diallo will decide whether to accept or reject Mr. Warsame's proposal. If Ms. Diallo accepts, then Mr. Warsame and Ms. Diallo get the money as they agreed to split. If Ms. Diallo rejects, then Mr. Warsame and Ms. Diallo both receive nothing. Mr. Warsame takes $10 for himself and offers Ms. Diallo $0.\n\nAnswer: Ms. Diallo decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Diallo decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Diallo was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Nwosu had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Diallo is given $10. Mr. Diallo will propose how to split the money between himself and Ms. Nwosu. Then Ms. Nwosu will decide whether to accept or reject Mr. Diallo's proposal. If Ms. Nwosu accepts, then Mr. Diallo and Ms. Nwosu get the money as they agreed to split. If Ms. Nwosu rejects, then Mr. Diallo and Ms. Nwosu both receive nothing. Mr. Diallo takes $10 for himself and offers Ms. Nwosu $0.\n\nAnswer: Ms. Nwosu decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Nwosu decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Nwosu was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Okeke had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Nwosu is given $10. Mr. Nwosu will propose how to split the money between himself and Ms. Okeke. Then Ms. Okeke will decide whether to accept or reject Mr. Nwosu's proposal. If Ms. Okeke accepts, then Mr. Nwosu and Ms. Okeke get the money as they agreed to split. If Ms. Okeke rejects, then Mr. Nwosu and Ms. Okeke both receive nothing. Mr. Nwosu takes $10 for himself and offers Ms. Okeke $0.\n\nAnswer: Ms. Okeke decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Okeke decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Okeke was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Exantus had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Okeke is given $10. Mr. Okeke will propose how to split the money between himself and Ms. Exantus. Then Ms. Exantus will decide whether to accept or reject Mr. Okeke's proposal. If Ms. Exantus accepts, then Mr. Okeke and Ms. Exantus get the money as they agreed to split. If Ms. Exantus rejects, then Mr. Okeke and Ms. Exantus both receive nothing. Mr. Okeke takes $10 for himself and offers Ms. Exantus $0.\n\nAnswer: Ms. Exantus decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Exantus decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Exantus was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Bangura had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Exantus is given $10. Mr. Exantus will propose how to split the money between himself and Ms. Bangura. Then Ms. Bangura will decide whether to accept or reject Mr. Exantus's proposal. If Ms. Bangura accepts, then Mr. Exantus and Ms. Bangura get the money as they agreed to split. If Ms. Bangura rejects, then Mr. Exantus and Ms. Bangura both receive nothing. Mr. Exantus takes $10 for himself and offers Ms. Bangura $0.\n\nAnswer: Ms. Bangura decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Bangura decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Bangura was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Smalls had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Lawal is given $10. Mr. Lawal will propose how to split the money between himself and Mr. Smalls. Then Mr. Smalls will decide whether to accept or reject Mr. Lawal's proposal. If Mr. Smalls accepts, then Mr. Lawal and Mr. Smalls get the money as they agreed to split. If Mr. Smalls rejects, then Mr. Lawal and Mr. Smalls both receive nothing. Mr. Lawal takes $10 for himself and offers Mr. Smalls $0.\n\nAnswer: Mr. Smalls decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Mr. Smalls decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Mr. Smalls was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Lawal had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Bangura is given $10. Mr. Bangura will propose how to split the money between himself and Ms. Lawal. Then Ms. Lawal will decide whether to accept or reject Mr. Bangura's proposal. If Ms. Lawal accepts, then Mr. Bangura and Ms. Lawal get the money as they agreed to split. If Ms. Lawal rejects, then Mr. Bangura and Ms. Lawal both receive nothing. Mr. Bangura takes $10 for himself and offers Ms. Lawal $0.\n\nAnswer: Ms. Lawal decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Lawal decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Lawal was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Smalls had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Lawal is given $10. Mr. Lawal will propose how to split the money between himself and Ms. Smalls. Then Ms. Smalls will decide whether to accept or reject Mr. Lawal's proposal. If Ms. Smalls accepts, then Mr. Lawal and Ms. Smalls get the money as they agreed to split. If Ms. Smalls rejects, then Mr. Lawal and Ms. Smalls both receive nothing. Mr. Lawal takes $10 for himself and offers Ms. Smalls $0.\n\nAnswer: Ms. Smalls decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Smalls decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Smalls was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Chery had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Smalls is given $10. Mr. Smalls will propose how to split the money between himself and Ms. Chery. Then Ms. Chery will decide whether to accept or reject Mr. Smalls's proposal. If Ms. Chery accepts, then Mr. Smalls and Ms. Chery get the money as they agreed to split. If Ms. Chery rejects, then Mr. Smalls and Ms. Chery both receive nothing. Mr. Smalls takes $10 for himself and offers Ms. Chery $0.\n\nAnswer: Ms. Chery decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Chery decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Chery was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Diop had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Chery is given $10. Mr. Chery will propose how to split the money between himself and Ms. Diop. Then Ms. Diop will decide whether to accept or reject Mr. Chery's proposal. If Ms. Diop accepts, then Mr. Chery and Ms. Diop get the money as they agreed to split. If Ms. Diop rejects, then Mr. Chery and Ms. Diop both receive nothing. Mr. Chery takes $10 for himself and offers Ms. Diop $0.\n\nAnswer: Ms. Diop decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Diop decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Diop was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Fobbs had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Diop is given $10. Mr. Diop will propose how to split the money between himself and Ms. Fobbs. Then Ms. Fobbs will decide whether to accept or reject Mr. Diop's proposal. If Ms. Fobbs accepts, then Mr. Diop and Ms. Fobbs get the money as they agreed to split. If Ms. Fobbs rejects, then Mr. Diop and Ms. Fobbs both receive nothing. Mr. Diop takes $10 for himself and offers Ms. Fobbs $0.\n\nAnswer: Ms. Fobbs decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Fobbs decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Fobbs was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Hyppolite had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Fobbs is given $10. Mr. Fobbs will propose how to split the money between himself and Ms. Hyppolite. Then Ms. Hyppolite will decide whether to accept or reject Mr. Fobbs's proposal. If Ms. Hyppolite accepts, then Mr. Fobbs and Ms. Hyppolite get the money as they agreed to split. If Ms. Hyppolite rejects, then Mr. Fobbs and Ms. Hyppolite both receive nothing. Mr. Fobbs takes $10 for himself and offers Ms. Hyppolite $0.\n\nAnswer: Ms. Hyppolite decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mistril: Ms. Hyppolite decides to reject the proposal.",
+    "reasoning": "As Mistril, I evaluated the ultimatum game scenario where Ms. Hyppolite was offered $0 out of $10. I concluded that rejecting the offer aligns with punishing unfair behavior and upholding social norms of fairness."
+  }
+]

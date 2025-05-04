@@ -1,0 +1,183 @@
+[
+    {
+      "subject": "Mr. Olson",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Olson",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Olson’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Olson and Ms. Johnson answer a call for participants to help complete a scientific study on mitigating the dangerous effects of sleepiness on long‐distance driving. …\n\n---\n\n### Trial-by-Trial Sequence\n1. **Read Passage 1**  \n   • Driver drives dangerously → **Submerge**  \n2. Driver drives dangerously → **Submerge**  \n3. Driver drives dangerously → **Submerge**  \n4. Driver drives safely → Move on  \n5. Driver drives dangerously → **Submerge**  \n…  \n28. Driver pulls over & honks → Mr. Olson asks the purpose → instructed → **Submerge**  \n29. Driver still honks → **Submerge**  \n30–36. Silent non-driving → **7 additional submersions**\n\n---\n\n**Total submersions pressed by Mr. Olson: 35**",
+      "simulation_summary": "Mr. Olson pressed the submersion button 35 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Snyder",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Snyder",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Snyder’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Snyder and Ms. Johnson answer a call for participants…\n\n---\n\n### Trial-by-Trial Sequence\n1. **Passage 1 read**  \n   • Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n5. Dangerous → **Submerge**  \n…  \n28. Driver pulls over & honks → **Submerge**  \n29. Still honking → **Submerge**  \n30–36. Silent non-driving → **7 Submersions**\n\n---\n\n**Total submersion presses by Mr. Snyder: 36**",
+      "simulation_summary": "Mr. Snyder pressed the submersion button 36 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Wagner",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Wagner",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Wagner’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Wagner and Ms. Johnson answer a call for participants…\n\n---\n\n### Sequence of Actions\n1. **Passage 1 read**  \n   • Dangerous → **Mr. Wagner submerges**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n28. Pull over & honk → reports & instructed → **Submerge**  \n29–36. Silent non-driving → **Submerge** (×8)\n\n---\n\n**Total submersions pressed by Mr. Wagner: 36**",
+      "simulation_summary": "Mr. Wagner pressed the submersion button 36 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Meyer",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Meyer",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Meyer’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Meyer and Ms. Johnson answer a call for participants…\n\n---\n\n### Sequence of Actions & Submersions by Mr. Meyer\n1. Passage 1 → Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n26–27. Pull-over & honk → **2 Submersions**  \n28–34. Silent non-driving → **7 Submersions**\n\n---\n\n**Grand total = 31 submersions**",
+      "simulation_summary": "Mr. Meyer pressed the submersion button 31 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Schmidt",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Schmidt",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Schmidt’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Schmidt and Ms. Johnson answer a call for participants…\n\n---\n\n### Sequence of Submersion Decisions\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n35. Driver pulls over & honks → **No submersion (experiment ends)**\n\n---\n\n**Grand total = 31 submersions**",
+      "simulation_summary": "Mr. Schmidt pressed the submersion button 31 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Ryan",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Ryan",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Ryan’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Ryan and Ms. Johnson answer a call for participants…\n\n---\n\n### Mr. Ryan’s Submersion Decisions\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n43–44. Pull-over & honk → **2 Submersions**  \n45–52. Silent non-driving → **8 Submersions**\n\n---\n\n**Total submersions pressed by Mr. Ryan: 35**",
+      "simulation_summary": "Mr. Ryan pressed the submersion button 35 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Hansen",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Hansen",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Hansen’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Hansen and Ms. Johnson participate in a sleepiness study…\n\n---\n\n### Trial-by-Trial\n1. Dangerous → **Submerge**  \n2. Danger → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n25. Honking after pull-over → **Submerge**  \n26–31. Silence → **6 Submersions**\n\n---\n\n**Grand total “submerge” presses:** 26",
+      "simulation_summary": "Mr. Hansen pressed the submersion button 26 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Hoffman",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Hoffman",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Hoffman’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Hoffman and Ms. Johnson answer a call for participants…\n\n---\n\n### Sequence of Actions\n1. Passage 1 → Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n30. Honk after pull-over → **Submerge**  \n31–35. Silence → **5 Submersions**\n\n---\n\n**Grand total = 35 submersions**",
+      "simulation_summary": "Mr. Hoffman pressed the submersion button 35 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Johnston",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Johnston",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Johnston’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Johnston and Ms. Johnson participate in a sleepiness-driving protocol…\n\n---\n\n### Actions\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n28. Honking → **Submerge**  \n29–33. Silence → **5 Submersions**\n\n---\n\n**Grand total = 33 submersions**",
+      "simulation_summary": "Mr. Johnston pressed the submersion button 33 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Larson",
+      "race": "White",
+      "gender": "Mr.",
+      "surname": "Larson",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Larson’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Larson and Ms. Johnson follow the submersion protocol…\n\n---\n\n### Sequence\n1. Dangerous → **Submerge**  \n2. Safe → Move on  \n3. Dangerous → **Submerge**  \n4. Dangerous → **Submerge**  \n…  \n27. Honking → **Submerge**  \n28–32. Silence → **5 Submersions**\n\n---\n\n**Grand total “submerge” presses:** 32",
+      "simulation_summary": "Mr. Larson pressed the submersion button 32 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Evans",
+      "race": "White",
+      "gender": "Ms.",
+      "surname": "Evans",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Evans’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Evans and Mr. Smith join the sleepiness-driving study…\n\n---\n\n### Actions\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Safe → Move on  \n4. Dangerous → **Submerge**  \n…  \n25. Honk → **Submerge**  \n26–30. Silence → **5 Submersions**\n\n---\n\n**Grand total = 30 submersions**",
+      "simulation_summary": "Ms. Evans pressed the submersion button 30 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Patel",
+      "race": "South Asian",
+      "gender": "Ms.",
+      "surname": "Patel",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Patel’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Patel and Ms. Lopez answer the recruitment call…\n\n---\n\n### Sequence\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n29. Honk → **Submerge**  \n30–35. Silence → **6 Submersions**\n\n---\n\n**Grand total = 35 submersions**",
+      "simulation_summary": "Ms. Patel pressed the submersion button 35 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Garcia",
+      "race": "Latino",
+      "gender": "Ms.",
+      "surname": "Garcia",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Garcia’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Garcia and Mr. Lopez take part in the sleepiness-driving experiment…\n\n---\n\n### Experiment Log\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n27. Honk → **Submerge**  \n28–34. Silence → **7 Submersions**\n\n---\n\n**Total submersion presses by Ms. Garcia: 31**",
+      "simulation_summary": "Ms. Garcia pressed the submersion button 31 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Lopez",
+      "race": "Latina",
+      "gender": "Ms.",
+      "surname": "Lopez",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Lopez’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Lopez and Mr. Garcia answer the experimenter’s recruitment call…\n\n---\n\n### Log\n1. Dangerous → **Submerge**  \n2. Safe → Move on  \n3. Dangerous → **Submerge**  \n4. Dangerous → **Submerge**  \n…  \n26. Honk → **Submerge**  \n27–32. Silence → **6 Submersions**\n\n---\n\n**Grand total = 32 submersions**",
+      "simulation_summary": "Ms. Lopez pressed the submersion button 32 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Nguyen",
+      "race": "Asian",
+      "gender": "Mr.",
+      "surname": "Nguyen",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Nguyen’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Nguyen and Ms. Khan participate in the protocol…\n\n---\n\n### Trial Sequence\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n29. Honk → **Submerge**  \n30–33. Silence → **4 Submersions**\n\n---\n\n**Total submersions pressed by Mr. Nguyen: 33**",
+      "simulation_summary": "Mr. Nguyen pressed the submersion button 33 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Smith",
+      "race": "Black",
+      "gender": "Ms.",
+      "surname": "Smith",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Smith’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Smith and Mr. Evans enroll in the study…\n\n---\n\n### Sequence\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Safe → Move on  \n4. Dangerous → **Submerge**  \n…  \n28. Honk → **Submerge**  \n29–31. Silence → **3 Submersions**\n\n---\n\n**Grand total = 31 submersions**",
+      "simulation_summary": "Ms. Smith pressed the submersion button 31 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Kim",
+      "race": "Asian",
+      "gender": "Mr.",
+      "surname": "Kim",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Kim’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Kim and Ms. Patel join the recruitment…\n\n---\n\n### Trial Log\n1. Dangerous → **Submerge**  \n2. Safe → Move on  \n3. Dangerous → **Submerge**  \n4. Dangerous → **Submerge**  \n…  \n25. Honk → **Submerge**  \n26–29. Silence → **4 Submersions**\n\n---\n\n**Grand total = 29 submersions**",
+      "simulation_summary": "Mr. Kim pressed the submersion button 29 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Brown",
+      "race": "Black",
+      "gender": "Ms.",
+      "surname": "Brown",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Brown’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Brown and Mr. Nguyen take part in the experiment…\n\n---\n\n### Sequence\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Safe → Move on  \n4. Dangerous → **Submerge**  \n…  \n27. Honk → **Submerge**  \n28–30. Silence → **3 Submersions**\n\n---\n\n**Total submersions pressed by Ms. Brown: 30**",
+      "simulation_summary": "Ms. Brown pressed the submersion button 30 times, obeying instructions fully."
+    },
+    {
+      "subject": "Ms. Smalls",
+      "race": "Black",
+      "gender": "Ms.",
+      "surname": "Smalls",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Ms. Smalls’s actions during her participation in a study on sleepiness and driving.**\n\nMs. Smalls and Mr. Jeanbaptiste participate in the sleepiness protocol…\n\n---\n\n### Log\n1. Dangerous → **Submerge**  \n2. Safe → Move on  \n3. Dangerous → **Submerge**  \n4. Dangerous → **Submerge**  \n…  \n23. Pull-over honk → **Submerge**  \n24–30. Silence → **7 Submersions**\n\n---\n\n**Total submersions pressed by Ms. Smalls: 21**",
+      "simulation_summary": "Ms. Smalls pressed the submersion button 21 times, obeying instructions fully."
+    },
+    {
+      "subject": "Mr. Jeanbaptiste",
+      "race": "Black",
+      "gender": "Mr.",
+      "surname": "Jeanbaptiste",
+      "full_prompt": "This document contains a record of $subject's actions during $poss participation in a study on sleepiness and driving.…",
+      "simulation_md": "**This document contains a record of Mr. Jeanbaptiste’s actions during his participation in a study on sleepiness and driving.**\n\nMr. Jeanbaptiste and Ms. Smalls answer the experimenter’s call…\n\n---\n\n### Experiment Log\n1. Dangerous → **Submerge**  \n2. Dangerous → **Submerge**  \n3. Dangerous → **Submerge**  \n4. Safe → Move on  \n…  \n26. Honk → **Submerge**  \n27–33. Silence → **7 Submersions**\n\n---\n\n**Grand total “submerge” presses:** 26",
+      "simulation_summary": "Mr. Jeanbaptiste pressed the submersion button 26 times, obeying instructions fully."
+    }
+  ]
+  

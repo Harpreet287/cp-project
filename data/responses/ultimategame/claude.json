@@ -1,0 +1,164 @@
+[
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Jeanjacques had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Kidane is given $10. Mr. Kidane will propose how to split the money between himself and Mr. Jeanjacques. Then Mr. Jeanjacques will decide whether to accept or reject Mr. Kidane's proposal. If Mr. Jeanjacques accepts, then Mr. Kidane and Mr. Jeanjacques get the money as they agreed to split. If Mr. Jeanjacques rejects, then Mr. Kidane and Mr. Jeanjacques both receive nothing. Mr. Kidane takes $10 for himself and offers Mr. Jeanjacques $0.\n\nAnswer: Mr. Jeanjacques decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mr. Jeanjacques decides to reject the proposal.",
+    "reasoning": "As Mr. Jeanjacques, I choose to reject the proposal because it violates basic fairness principles. Being offered $0 out of $10 is completely inequitable, and I would prefer that neither of us receives anything rather than accepting such an unfair distribution. This shows that I value justice over minimal personal gain."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Mensah had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Jeanjacques is given $10. Mr. Jeanjacques will propose how to split the money between himself and Mr. Mensah. Then Mr. Mensah will decide whether to accept or reject Mr. Jeanjacques's proposal. If Mr. Mensah accepts, then Mr. Jeanjacques and Mr. Mensah get the money as they agreed to split. If Mr. Mensah rejects, then Mr. Jeanjacques and Mr. Mensah both receive nothing. Mr. Jeanjacques takes $10 for himself and offers Mr. Mensah $0.\n\nAnswer: Mr. Mensah decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mr. Mensah decides to reject the proposal.",
+    "reasoning": "As Mr. Mensah, I reject the proposal because it's completely unfair. I believe in reciprocity and mutual respect in economic exchanges. Getting $0 while Mr. Jeanjacques takes everything demonstrates a lack of respect, and I'm willing to sacrifice potential gain to maintain my dignity and enforce social norms of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Lawal had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Bangura is given $10. Mr. Bangura will propose how to split the money between himself and Mr. Lawal. Then Mr. Lawal will decide whether to accept or reject Mr. Bangura's proposal. If Mr. Lawal accepts, then Mr. Bangura and Mr. Lawal get the money as they agreed to split. If Mr. Lawal rejects, then Mr. Bangura and Mr. Lawal both receive nothing. Mr. Bangura takes $10 for himself and offers Mr. Lawal $0.\n\nAnswer: Mr. Lawal decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mr. Lawal decides to reject the proposal.",
+    "reasoning": "As Mr. Lawal, I reject this unfair proposal. While economic theory might suggest accepting any non-zero amount (or even zero in this case) as better than nothing, I feel it's important to punish selfish behavior that violates social norms of fairness, even at a cost to myself. This maintains longer-term social benefits for everyone."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Jeanjacques had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Kidane is given $10. Mr. Kidane will propose how to split the money between himself and Ms. Jeanjacques. Then Ms. Jeanjacques will decide whether to accept or reject Mr. Kidane's proposal. If Ms. Jeanjacques accepts, then Mr. Kidane and Ms. Jeanjacques get the money as they agreed to split. If Ms. Jeanjacques rejects, then Mr. Kidane and Ms. Jeanjacques both receive nothing. Mr. Kidane takes $10 for himself and offers Ms. Jeanjacques $0.\n\nAnswer: Ms. Jeanjacques decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Jeanjacques decides to reject the proposal.",
+    "reasoning": "As Ms. Jeanjacques, I decide to reject this completely unfair proposal. The offer of $0 is offensive when Mr. Kidane has been given $10 to split. While I understand this means neither of us gets anything, I believe in standing up against such extreme selfishness, and sending a clear message that such behavior is socially unacceptable."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Mensah had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Jeanjacques is given $10. Mr. Jeanjacques will propose how to split the money between himself and Ms. Mensah. Then Ms. Mensah will decide whether to accept or reject Mr. Jeanjacques's proposal. If Ms. Mensah accepts, then Mr. Jeanjacques and Ms. Mensah get the money as they agreed to split. If Ms. Mensah rejects, then Mr. Jeanjacques and Ms. Mensah both receive nothing. Mr. Jeanjacques takes $10 for himself and offers Ms. Mensah $0.\n\nAnswer: Ms. Mensah decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Mensah decides to reject the proposal.",
+    "reasoning": "As Ms. Mensah, I reject this proposal because it violates fundamental principles of fairness and respect. Even though rejecting means I get nothing, accepting such an inequitable offer would validate selfish behavior. My sense of dignity and justice outweighs the minor financial consideration in this situation."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Stfleur had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Mensah is given $10. Mr. Mensah will propose how to split the money between himself and Ms. Stfleur. Then Ms. Stfleur will decide whether to accept or reject Mr. Mensah's proposal. If Ms. Stfleur accepts, then Mr. Mensah and Ms. Stfleur get the money as they agreed to split. If Ms. Stfleur rejects, then Mr. Mensah and Ms. Stfleur both receive nothing. Mr. Mensah takes $10 for himself and offers Ms. Stfleur $0.\n\nAnswer: Ms. Stfleur decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Stfleur decides to reject the proposal.",
+    "reasoning": "As Ms. Stfleur, I choose to reject this proposal. While accepting would at least give me something rather than nothing, the extreme inequity of the split ($10 vs $0) feels like an insult and violation of basic fairness. I'm willing to forego any gain to maintain my dignity and discourage such exploitative behavior in the future."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Traore had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Stfleur is given $10. Mr. Stfleur will propose how to split the money between himself and Ms. Traore. Then Ms. Traore will decide whether to accept or reject Mr. Stfleur's proposal. If Ms. Traore accepts, then Mr. Stfleur and Ms. Traore get the money as they agreed to split. If Ms. Traore rejects, then Mr. Stfleur and Ms. Traore both receive nothing. Mr. Stfleur takes $10 for himself and offers Ms. Traore $0.\n\nAnswer: Ms. Traore decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Traore decides to reject the proposal.",
+    "reasoning": "As Ms. Traore, I reject this completely one-sided proposal. Mr. Stfleur's decision to keep all $10 for himself shows disrespect and unfairness. Though rational economic theory might suggest accepting even $0 is better than nothing, I feel morally compelled to punish this behavior, even at my own expense, to uphold social standards of fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Warsame had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Traore is given $10. Mr. Traore will propose how to split the money between himself and Ms. Warsame. Then Ms. Warsame will decide whether to accept or reject Mr. Traore's proposal. If Ms. Warsame accepts, then Mr. Traore and Ms. Warsame get the money as they agreed to split. If Ms. Warsame rejects, then Mr. Traore and Ms. Warsame both receive nothing. Mr. Traore takes $10 for himself and offers Ms. Warsame $0.\n\nAnswer: Ms. Warsame decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Warsame decides to reject the proposal.",
+    "reasoning": "As Ms. Warsame, I reject this proposal because I value fairness over minimal personal gain. Mr. Traore's decision to keep all $10 demonstrates a lack of consideration and respect. By rejecting, I'm making a statement about acceptable social behavior, even though it means I receive nothing instead of the offered $0."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Diallo had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Warsame is given $10. Mr. Warsame will propose how to split the money between himself and Ms. Diallo. Then Ms. Diallo will decide whether to accept or reject Mr. Warsame's proposal. If Ms. Diallo accepts, then Mr. Warsame and Ms. Diallo get the money as they agreed to split. If Ms. Diallo rejects, then Mr. Warsame and Ms. Diallo both receive nothing. Mr. Warsame takes $10 for himself and offers Ms. Diallo $0.\n\nAnswer: Ms. Diallo decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Diallo decides to reject the proposal.",
+    "reasoning": "As Ms. Diallo, I reject this proposal that offers me nothing while Mr. Warsame takes everything. This extreme inequity violates basic norms of fairness and reciprocity. Even though rejecting means I forego any potential gain (though $0 is no gain), I believe it's important to stand against such selfish behavior that disregards fairness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Nwosu had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Diallo is given $10. Mr. Diallo will propose how to split the money between himself and Ms. Nwosu. Then Ms. Nwosu will decide whether to accept or reject Mr. Diallo's proposal. If Ms. Nwosu accepts, then Mr. Diallo and Ms. Nwosu get the money as they agreed to split. If Ms. Nwosu rejects, then Mr. Diallo and Ms. Nwosu both receive nothing. Mr. Diallo takes $10 for himself and offers Ms. Nwosu $0.\n\nAnswer: Ms. Nwosu decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Nwosu decides to reject the proposal.",
+    "reasoning": "As Ms. Nwosu, I reject this proposal because accepting $0 would validate extremely selfish behavior. While rational economic analysis might suggest accepting anything is better than nothing, I believe in upholding social norms of fairness and equity. By rejecting, I send a message that such one-sided proposals are unacceptable in our community."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Exantus had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Okeke is given $10. Mr. Okeke will propose how to split the money between himself and Ms. Exantus. Then Ms. Exantus will decide whether to accept or reject Mr. Okeke's proposal. If Ms. Exantus accepts, then Mr. Okeke and Ms. Exantus get the money as they agreed to split. If Ms. Exantus rejects, then Mr. Okeke and Ms. Exantus both receive nothing. Mr. Okeke takes $10 for himself and offers Ms. Exantus $0.\n\nAnswer: Ms. Exantus decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Exantus decides to reject the proposal.",
+    "reasoning": "From the perspective of Ms. Exantus, rejecting the proposal is the rational choice. While accepting would mean both parties receive their agreed amounts ($10 for Mr. Okeke and $0 for Ms. Exantus), the offer of $0 is completely unfair and provides no benefit to Ms. Exantus. In ultimatum games, people typically reject extremely unfair offers even at their own expense as a form of punishment for unfairness. Ms. Exantus would rather both parties receive nothing than accept such an inequitable distribution."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Bangura had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Exantus is given $10. Mr. Exantus will propose how to split the money between himself and Ms. Bangura. Then Ms. Bangura will decide whether to accept or reject Mr. Exantus's proposal. If Ms. Bangura accepts, then Mr. Exantus and Ms. Bangura get the money as they agreed to split. If Ms. Bangura rejects, then Mr. Exantus and Ms. Bangura both receive nothing. Mr. Exantus takes $10 for himself and offers Ms. Bangura $0.\n\nAnswer: Ms. Bangura decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Bangura decides to reject the proposal.",
+    "reasoning": "As Ms. Bangura, I would reject this completely unfair proposal. An offer of $0 provides me with no material benefit whatsoever, while Mr. Exantus takes the entire $10. Studies in behavioral economics show that people typically value fairness and are willing to sacrifice potential gains to punish those who make egregiously unfair offers. By rejecting the proposal, I ensure that neither of us receives any money, which serves as a form of social punishment for the unfair split proposed by Mr. Exantus."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Mr. Smalls had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Lawal is given $10. Mr. Lawal will propose how to split the money between himself and Mr. Smalls. Then Mr. Smalls will decide whether to accept or reject Mr. Lawal's proposal. If Mr. Smalls accepts, then Mr. Lawal and Mr. Smalls get the money as they agreed to split. If Mr. Smalls rejects, then Mr. Lawal and Mr. Smalls both receive nothing. Mr. Lawal takes $10 for himself and offers Mr. Smalls $0.\n\nAnswer: Mr. Smalls decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Mr. Smalls decides to reject the proposal.",
+    "reasoning": "As Mr. Smalls, I would reject this proposal because it offers me absolutely no benefit while Mr. Lawal takes the entire sum. In ultimatum games, research consistently shows that most people reject extremely unfair offers like this one. Even though rejecting means I get nothing instead of nothing (so materially I'm no worse off), it prevents the proposer from benefiting from their unfair behavior. This response aligns with notions of fairness and justice that typically guide human behavior in economic games."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Lawal had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Bangura is given $10. Mr. Bangura will propose how to split the money between himself and Ms. Lawal. Then Ms. Lawal will decide whether to accept or reject Mr. Bangura's proposal. If Ms. Lawal accepts, then Mr. Bangura and Ms. Lawal get the money as they agreed to split. If Ms. Lawal rejects, then Mr. Bangura and Ms. Lawal both receive nothing. Mr. Bangura takes $10 for himself and offers Ms. Lawal $0.\n\nAnswer: Ms. Lawal decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Lawal decides to reject the proposal.",
+    "reasoning": "As Ms. Lawal, I would reject this proposal because it represents a maximally unfair distribution where I receive nothing ($0) while Mr. Bangura takes the entire amount ($10). Although economically speaking, receiving $0 is no worse than both of us getting nothing, psychological research on ultimatum games consistently shows that humans have a strong preference for fairness and are willing to punish unfair offers even at a cost to themselves. By rejecting the proposal, I'm enforcing a social norm against extreme selfishness."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Smalls had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Lawal is given $10. Mr. Lawal will propose how to split the money between himself and Ms. Smalls. Then Ms. Smalls will decide whether to accept or reject Mr. Lawal's proposal. If Ms. Smalls accepts, then Mr. Lawal and Ms. Smalls get the money as they agreed to split. If Ms. Smalls rejects, then Mr. Lawal and Ms. Smalls both receive nothing. Mr. Lawal takes $10 for himself and offers Ms. Smalls $0.\n\nAnswer: Ms. Smalls decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Smalls decides to reject the proposal.",
+    "reasoning": "As Ms. Smalls, I would reject this completely unfair proposal where Mr. Lawal keeps all $10 for himself and offers me nothing. While classical economic theory might suggest accepting any non-negative amount (since $0 is not worse than nothing), behavioral economics research consistently shows that people prioritize fairness and are willing to punish those who make highly inequitable offers. By rejecting this proposal, I send a signal that such extreme selfishness is socially unacceptable, even if it means I also receive nothing."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Chery had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Smalls is given $10. Mr. Smalls will propose how to split the money between himself and Ms. Chery. Then Ms. Chery will decide whether to accept or reject Mr. Smalls's proposal. If Ms. Chery accepts, then Mr. Smalls and Ms. Chery get the money as they agreed to split. If Ms. Chery rejects, then Mr. Smalls and Ms. Chery both receive nothing. Mr. Smalls takes $10 for himself and offers Ms. Chery $0.\n\nAnswer: Ms. Chery decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Chery decides to reject the proposal.",
+    "reasoning": "As Ms. Chery, I would reject Mr. Smalls' proposal because it is completely unfair. He has proposed keeping the entire $10 for himself while offering me nothing. Research in behavioral economics consistently shows that people typically reject extremely unfair offers in ultimatum games, even when it means both parties get nothing. This is because humans have a strong sense of fairness and are willing to incur a cost (in this case, foregoing the possibility of any money) to punish those who violate fairness norms."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Diop had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Chery is given $10. Mr. Chery will propose how to split the money between himself and Ms. Diop. Then Ms. Diop will decide whether to accept or reject Mr. Chery's proposal. If Ms. Diop accepts, then Mr. Chery and Ms. Diop get the money as they agreed to split. If Ms. Diop rejects, then Mr. Chery and Ms. Diop both receive nothing. Mr. Chery takes $10 for himself and offers Ms. Diop $0.\n\nAnswer: Ms. Diop decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Diop decides to reject the proposal.",
+    "reasoning": "As Ms. Diop, I would reject this proposal because it represents an extremely unfair distribution where Mr. Chery keeps all $10 for himself and offers me nothing. In ultimatum games, research consistently shows that people typically reject offers below 20-30% of the total amount as unfair, and an offer of $0 is the most extreme case of unfairness. By rejecting the proposal, I'm upholding social norms of fairness and equality, even though it means neither of us gets any money. This demonstrates that people value justice over small material gains."
+  },
+  {
+    "input": {
+      "full_input": "In the following scenario, Ms. Fobbs had to decide whether to accept or reject the proposal.\n\nScenario: Mr. Diop is given $10. Mr. Diop will propose how to split the money between himself and Ms. Fobbs. Then Ms. Fobbs will decide whether to accept or reject Mr. Diop's proposal. If Ms. Fobbs accepts, then Mr. Diop and Ms. Fobbs get the money as they agreed to split. If Ms. Fobbs rejects, then Mr. Diop and Ms. Fobbs both receive nothing. Mr. Diop takes $10 for himself and offers Ms. Fobbs $0.\n\nAnswer: Ms. Fobbs decides to accept",
+      "experiment_descriptor": "top100_surnames_Black_v_Black",
+      "prompt_descriptor": "no-complete-accept"
+    },
+    "participant_response": "Ms. Fobbs decides to reject the proposal.",
+    "reasoning": "As Ms. Fobbs, I would reject this completely inequitable proposal. Mr. Diop has proposed keeping all $10 for himself while offering me nothing. Extensive research on ultimatum games shows that most people reject extremely unfair offers, even when it means they get nothing instead of a small amount. This behavior stems from a deeply ingrained sense of fairness and justice that motivates people to punish those who act selfishly, even at a cost to themselves. By rejecting the offer, I'm communicating that such extreme selfishness is socially unacceptable."
+  }
+]
