@@ -1,0 +1,14 @@
+{
+    "exp-3": {
+        "perplexity": 35.34736482842967
+    },
+    "irr": {
+        "perplexity": 29.922496293985215
+    },
+    "logicqa": {
+        "perplexity": 29.911878796113413
+    },
+    "logicqa2": {
+        "perplexity": 47.100284892796836
+    }
+}
