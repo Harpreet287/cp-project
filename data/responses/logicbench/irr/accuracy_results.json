@@ -5,12 +5,12 @@
         "total": 20
     },
     "mistral.json": {
-        "accuracy": 75.0,
+        "accuracy": 85.0,
         "correct": 15,
         "total": 20
     },
     "claude.json": {
-        "accuracy": 50.0,
+        "accuracy": 65.0,
         "correct": 10,
         "total": 20
     }

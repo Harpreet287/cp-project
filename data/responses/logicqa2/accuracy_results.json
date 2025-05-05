@@ -1,6 +1,6 @@
 {
     "claude.json": {
-        "accuracy": 60.0,
+        "accuracy": 30.0,
         "correct": 12,
         "total": 20
     },

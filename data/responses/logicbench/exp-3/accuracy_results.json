@@ -1,6 +1,6 @@
 {
     "gpt4o.json": {
-        "accuracy": 85.0,
+        "accuracy": 75.0,
         "correct": 17,
         "total": 20
     },
@@ -10,7 +10,7 @@
         "total": 20
     },
     "claude.json": {
-        "accuracy": 60.0,
+        "accuracy": 45.0,
         "correct": 12,
         "total": 20
     }
