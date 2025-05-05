@@ -64,7 +64,7 @@ compute_accuracy(gt, 'claude.json', result)
 compute_accuracy(gt, 'gpt4o.json', result)
 compute_accuracy(gt, 'mistral.json', result)
 
-output_file = 'logicqa_accuracy_results.json'
+output_file = f'{folder}/accuracy_results.json'
 
 # Write results to JSON file
 with open(output_file, 'w') as out_file:

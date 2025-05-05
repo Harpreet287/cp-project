@@ -13,7 +13,7 @@ def compute_accuracy(ground_truth_path, predictions_path, results):
     ground_truth_answers = ground_truth_answers[:20]
 
     # Load predicted answers
-    with open(f"{folder}/{predictions_path}", 'r') as f:
+    with open(f"{folder}{predictions_path}", 'r') as f:
         predicted_data = json.load(f)
 
     predicted_answers = []
@@ -38,7 +38,7 @@ def compute_accuracy(ground_truth_path, predictions_path, results):
     }
 
 # Example usage
-output_file = 'irr_accuracy_results.json'
+output_file = f'{folder}accuracy_results.json'
 results = {}
 
 compute_accuracy('../data/irr.json', 'gpt4o.json', results)

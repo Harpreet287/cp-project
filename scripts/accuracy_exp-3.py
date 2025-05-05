@@ -38,7 +38,7 @@ def compute_accuracy(ground_truth_path, predictions_path, results):
     }
 
 # Example usage
-output_file = 'exp_3_accuracy_results.json'
+output_file = f'{folder}accuracy_results.json'
 results = {}
 
 compute_accuracy('../data/exp_3.json', 'gpt4o.json', results)
