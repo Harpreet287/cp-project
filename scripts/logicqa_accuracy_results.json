@@ -1,0 +1,17 @@
+{
+    "claude.json": {
+        "accuracy": 75.0,
+        "correct": 15,
+        "total": 20
+    },
+    "gpt4o.json": {
+        "accuracy": 60.0,
+        "correct": 12,
+        "total": 20
+    },
+    "mistral.json": {
+        "accuracy": 70.0,
+        "correct": 14,
+        "total": 20
+    }
+}

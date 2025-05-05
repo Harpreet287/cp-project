@@ -91,6 +91,11 @@
     "reason": "The greenhouse effect argument (that global warming causes people to cool down) least supports the conclusion about a steady drop in body temperature."
   },
   {
+    "id": 9448,
+    "answer": 0,
+    "reason": "Improvements in thermometer precision suggest that the apparent decline in body temperature could be an artifact of measurement rather than a true physiological change, and therefore do not support the conclusion that human body temperature has actually fallen over the past century."
+  },  
+  {
     "id": 4444,
     "answer": 1,
     "reason": "Whether he likes instruments or not, the conditionals entail that in every case Xu Ping will end up learning to play Erhu."
