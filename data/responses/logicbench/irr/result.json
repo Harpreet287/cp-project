@@ -1,0 +1,11 @@
+{
+    "claude.json": {
+        "perplexity": 37.594686748526236
+    },
+    "mistral.json": {
+        "perplexity": 53.31161671414036
+    },
+    "gpt4o.json": {
+        "perplexity": 107.27761196346725
+    }
+}

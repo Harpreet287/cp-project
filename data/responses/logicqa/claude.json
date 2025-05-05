@@ -2,101 +2,101 @@
   {
     "id": 2920,
     "answer": 3,
-    "explanation": "From the given information: (1) At least 5 young teachers are female; (2) At least 6 female teachers are over middle age; (3) At least seven young women are teachers. So we have at least 5 young female teachers + at least 6 older female teachers = at least 11 female teachers who are teachers (either young or older). Therefore option 3, 'There are at least 13 female teachers' cannot be concluded, but option 3 'There are at least 11 young teachers' cannot be concluded either since we only know there are at least 5 young teachers who are female. The correct answer is option 3."
+    "reason": "From the given information: (1) At least 5 young teachers are female; (2) At least 6 female teachers are over middle age; (3) At least seven young women are teachers. So we have at least 5 young female teachers + at least 6 older female teachers = at least 11 female teachers who are teachers (either young or older). Therefore option 3, 'There are at least 13 female teachers' cannot be concluded, but option 3 'There are at least 11 young teachers' cannot be concluded either since we only know there are at least 5 young teachers who are female. The correct answer is option 3."
   },
   {
     "id": 10654,
     "answer": 0,
-    "explanation": "The apparent discrepancy is that while each loan's monthly payment increased over time (graduated payment plan), the average payment received by MetroBank decreased. The best explanation is that the three companies with the largest loans paid them off early (within three years). Since these were likely the loans with the highest payments, removing them from the calculation would decrease the average payment even though individual remaining loan payments were increasing."
+    "reason": "The apparent discrepancy is that while each loan's monthly payment increased over time (graduated payment plan), the average payment received by MetroBank decreased. The best explanation is that the three companies with the largest loans paid them off early (within three years). Since these were likely the loans with the highest payments, removing them from the calculation would decrease the average payment even though individual remaining loan payments were increasing."
   },
   {
     "id": 2892,
     "answer": 2,
-    "explanation": "If sales growth of notebook computers is lower than the company's total sales growth, then notebooks must be representing a decreasing percentage of total sales over time. Option 2 states that the proportion of personal notebook sales has risen from 68% to 72%, which directly conflicts with the given information, since this would require notebook sales to grow faster than total sales."
+    "reason": "If sales growth of notebook computers is lower than the company's total sales growth, then notebooks must be representing a decreasing percentage of total sales over time. Option 2 states that the proportion of personal notebook sales has risen from 68% to 72%, which directly conflicts with the given information, since this would require notebook sales to grow faster than total sales."
   },
   {
     "id": 10448,
     "answer": 3,
-    "explanation": "The scientists claimed that some well-managed farms can reduce chemical use without reducing yield. The critic argues they chose farms likely to succeed, ignoring failures. However, this misses the scientists' point - they're only claiming that such methods can work in some cases, not that they always work. The critic's rebuttal is irrelevant to the actual claim being made."
+    "reason": "The scientists claimed that some well-managed farms can reduce chemical use without reducing yield. The critic argues they chose farms likely to succeed, ignoring failures. However, this misses the scientists' point - they're only claiming that such methods can work in some cases, not that they always work. The critic's rebuttal is irrelevant to the actual claim being made."
   },
   {
     "id": 726,
     "answer": 2,
-    "explanation": "From the passage, Xiao Liu is a member of save the earth but is not a volunteer for the Shanghai World Expo due to illness. Other members of the organization have obtained volunteer qualification. Therefore, option 2 is correct: If someone is a volunteer of Shanghai World Expo and a member of save the earth, they cannot be Xiao Liu."
+    "reason": "From the passage, Xiao Liu is a member of save the earth but is not a volunteer for the Shanghai World Expo due to illness. Other members of the organization have obtained volunteer qualification. Therefore, option 2 is correct: If someone is a volunteer of Shanghai World Expo and a member of save the earth, they cannot be Xiao Liu."
   },
   {
     "id": 8850,
     "answer": 3,
-    "explanation": "The original statement is a conditional: if you don't want to be caught doing something stupid, then don't do something stupid. Options 0, 1, and 2 all express this same conditional relationship in different forms. Option 3 has a different meaning, suggesting that being caught is a matter of luck rather than a natural consequence of the action."
+    "reason": "The original statement is a conditional: if you don't want to be caught doing something stupid, then don't do something stupid. Options 0, 1, and 2 all express this same conditional relationship in different forms. Option 3 has a different meaning, suggesting that being caught is a matter of luck rather than a natural consequence of the action."
   },
   {
     "id": 4369,
     "answer": 1,
-    "explanation": "Living gifts are defined as donations made while the donor is alive. Option 1 is the only one where someone (Chairman Li) is clearly giving away property while still alive, then choosing to live elsewhere."
+    "reason": "Living gifts are defined as donations made while the donor is alive. Option 1 is the only one where someone (Chairman Li) is clearly giving away property while still alive, then choosing to live elsewhere."
   },
   {
     "id": 736,
     "answer": 0,
-    "explanation": "Social self-organization is defined as spontaneously established, independently developing/acting, having scale, non-governmental, and moving from disorder to order. Option 0 doesn't fit because it appears to be a regular, planned event organized by a software enterprise rather than a spontaneous, self-organizing group."
+    "reason": "Social self-organization is defined as spontaneously established, independently developing/acting, having scale, non-governmental, and moving from disorder to order. Option 0 doesn't fit because it appears to be a regular, planned event organized by a software enterprise rather than a spontaneous, self-organizing group."
   },
   {
     "id": 14862,
     "answer": 2,
-    "explanation": "The argument assumes that calculating each chemical's effect individually will protect the waterway. This critically assumes that chemicals don't interact with each other to form harmful compounds, as stated in option 2. If chemicals did interact to form harmful compounds, then individual permits wouldn't ensure protection."
+    "reason": "The argument assumes that calculating each chemical's effect individually will protect the waterway. This critically assumes that chemicals don't interact with each other to form harmful compounds, as stated in option 2. If chemicals did interact to form harmful compounds, then individual permits wouldn't ensure protection."
   },
   {
     "id": 9769,
     "answer": 2,
-    "explanation": "The text describes Xiyuan Ya Collection as showing elegant gatherings of literati, with descriptions of their activities (reciting poems, playing music, meditating) and the spiritual aspects described in Mi Fu's preface about finding joy in nature. Option 2 best captures this focus on the interests and spiritual values depicted in the collection."
+    "reason": "The text describes Xiyuan Ya Collection as showing elegant gatherings of literati, with descriptions of their activities (reciting poems, playing music, meditating) and the spiritual aspects described in Mi Fu's preface about finding joy in nature. Option 2 best captures this focus on the interests and spiritual values depicted in the collection."
   },
   {
     "id": 4653,
     "answer": 3,
-    "explanation": "The passage describes a method of fire prevention by controlled burning of undergrowth, not simply removing it. Option 3 suggests that just removing dead branches, weeds, etc. would prevent forest fires, which is different from the controlled burning method described in the passage."
+    "reason": "The passage describes a method of fire prevention by controlled burning of undergrowth, not simply removing it. Option 3 suggests that just removing dead branches, weeds, etc. would prevent forest fires, which is different from the controlled burning method described in the passage."
   },
   {
     "id": 5949,
     "answer": 1,
-    "explanation": "The passage describes folk art facing an 'unprecedented crisis' due to modernization, changing urban environments, shifting interests, and loss of folk art talents. Option 1 directly addresses this by stating folk culture needs rescue protection, which is the logical conclusion from the described crisis."
+    "reason": "The passage describes folk art facing an 'unprecedented crisis' due to modernization, changing urban environments, shifting interests, and loss of folk art talents. Option 1 directly addresses this by stating folk culture needs rescue protection, which is the logical conclusion from the described crisis."
   },
   {
     "id": 1226,
     "answer": 0,
-    "explanation": "The text emphasizes that education needs 'to return to people themselves' and be concerned with 'people's growth.' It mentions the importance of benevolence, patience, and public interest in teaching, suggesting a humanistic approach. Option 0, 'Not people-oriented,' best captures what the author sees as the main problem."
+    "reason": "The text emphasizes that education needs 'to return to people themselves' and be concerned with 'people's growth.' It mentions the importance of benevolence, patience, and public interest in teaching, suggesting a humanistic approach. Option 0, 'Not people-oriented,' best captures what the author sees as the main problem."
   },
   {
     "id": 6498,
     "answer": 2,
-    "explanation": "The passage discusses vocational education as critical for addressing the shortage of skilled workers, which is described as a 'bottleneck restricting the adjustment of China's economic structure.' The text emphasizes vocational education's role in economic transformation, making option 2 the most accurate summary."
+    "reason": "The passage discusses vocational education as critical for addressing the shortage of skilled workers, which is described as a 'bottleneck restricting the adjustment of China's economic structure.' The text emphasizes vocational education's role in economic transformation, making option 2 the most accurate summary."
   },
   {
     "id": 13981,
     "answer": 0,
-    "explanation": "P argues that support from a political party is necessary for effectiveness. Q counters that their current legislator has party support but isn't effective. This misinterprets P's claim - P is saying party support is necessary for effectiveness, not that it guarantees effectiveness. Option 0 correctly identifies this logical flaw."
+    "reason": "P argues that support from a political party is necessary for effectiveness. Q counters that their current legislator has party support but isn't effective. This misinterprets P's claim - P is saying party support is necessary for effectiveness, not that it guarantees effectiveness. Option 0 correctly identifies this logical flaw."
   },
   {
     "id": 14540,
     "answer": 1,
-    "explanation": "Willett's main conclusion is that Lopez and Simmons are making a foolish decision by revealing their marriage before being hired, since one will lose their job offer. The argument suggests they should keep it secret initially and claim to have married after being hired, since Evritech doesn't terminate employees who marry each other. Option 1 best captures this conclusion."
+    "reason": "Willett's main conclusion is that Lopez and Simmons are making a foolish decision by revealing their marriage before being hired, since one will lose their job offer. The argument suggests they should keep it secret initially and claim to have married after being hired, since Evritech doesn't terminate employees who marry each other. Option 1 best captures this conclusion."
   },
   {
     "id": 6299,
     "answer": 0,
-    "explanation": "The passage states ancient Chinese people's experiences predicting earthquakes 'have been passed down from generation to generation' and 'still have a high degree of trust in people.' Option 0 best captures this view that these methods are valued folk wisdom with credibility."
+    "reason": "The passage states ancient Chinese people's experiences predicting earthquakes 'have been passed down from generation to generation' and 'still have a high degree of trust in people.' Option 0 best captures this view that these methods are valued folk wisdom with credibility."
   },
   {
     "id": 6134,
     "answer": 2,
-    "explanation": "The passage uses Mark Twain's experience and the concept of 'over-limit effect' to caution that the Ice Bucket Challenge should maintain the 'true spirit of charity' without excessive entertainment. Option 2, 'We must grasp the scale of charity and entertainment,' best captures this balance the author is advocating for."
+    "reason": "The passage uses Mark Twain's experience and the concept of 'over-limit effect' to caution that the Ice Bucket Challenge should maintain the 'true spirit of charity' without excessive entertainment. Option 2, 'We must grasp the scale of charity and entertainment,' best captures this balance the author is advocating for."
   },
   {
     "id": 9448,
     "answer": 0,
-    "explanation": "The passage concludes human body temperature has been declining over the past century. Option 0, about thermometer technology becoming more refined, suggests the observed decline might be due to more accurate measurements rather than an actual biological change, which least supports the conclusion."
+    "reason": "The passage concludes human body temperature has been declining over the past century. Option 0, about thermometer technology becoming more refined, suggests the observed decline might be due to more accurate measurements rather than an actual biological change, which least supports the conclusion."
   },
   {
     "id": 4444,
     "answer": 0,
-    "explanation": "Given: (1) No Erhu performance study → No folk music theory research; (2) Likes national instruments → Studies Erhu; (3) Doesn't like national instruments → Does folk music theory research. From (1), if Xu Ping does folk music theory research, he must study Erhu performance. From (3), if he does folk music theory research, he doesn't like national instruments. But from (2), if he doesn't like national instruments, he won't study Erhu. This creates a contradiction if he does folk music theory research. Therefore, he must study folk music theory."
+    "reason": "Given: (1) No Erhu performance study → No folk music theory research; (2) Likes national instruments → Studies Erhu; (3) Doesn't like national instruments → Does folk music theory research. From (1), if Xu Ping does folk music theory research, he must study Erhu performance. From (3), if he does folk music theory research, he doesn't like national instruments. But from (2), if he doesn't like national instruments, he won't study Erhu. This creates a contradiction if he does folk music theory research. Therefore, he must study folk music theory."
   }
 ]
